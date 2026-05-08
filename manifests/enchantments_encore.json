@@ -3,16 +3,32 @@
     "datapack": "Enchantments Encore",
     "datapackSlug": "enchantments_encore",
     "namespace": "enchantencore",
-    "structure": "rise",
-    "id": "enchantencore:rise",
+    "structure": "rise/rise/rise_big",
+    "id": "enchantencore:rise/rise/rise_big",
     "blocks": 7572,
     "uniqueBlocks": 27,
-    "url": "structures/enchantments_encore/enchantencore/rise/index.html",
+    "url": "structures/enchantments_encore/enchantencore/rise/rise/rise_big/index.html",
     "previews": [
-      "structures/enchantments_encore/enchantencore/rise/previews/north.png",
-      "structures/enchantments_encore/enchantencore/rise/previews/east.png",
-      "structures/enchantments_encore/enchantencore/rise/previews/south.png",
-      "structures/enchantments_encore/enchantencore/rise/previews/west.png"
+      "structures/enchantments_encore/enchantencore/rise/rise/rise_big/previews/north.png",
+      "structures/enchantments_encore/enchantencore/rise/rise/rise_big/previews/east.png",
+      "structures/enchantments_encore/enchantencore/rise/rise/rise_big/previews/south.png",
+      "structures/enchantments_encore/enchantencore/rise/rise/rise_big/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Enchantments Encore",
+    "datapackSlug": "enchantments_encore",
+    "namespace": "enchantencore",
+    "structure": "rise/rise/rise_small",
+    "id": "enchantencore:rise/rise/rise_small",
+    "blocks": 3400,
+    "uniqueBlocks": 26,
+    "url": "structures/enchantments_encore/enchantencore/rise/rise/rise_small/index.html",
+    "previews": [
+      "structures/enchantments_encore/enchantencore/rise/rise/rise_small/previews/north.png",
+      "structures/enchantments_encore/enchantencore/rise/rise/rise_small/previews/east.png",
+      "structures/enchantments_encore/enchantencore/rise/rise/rise_small/previews/south.png",
+      "structures/enchantments_encore/enchantencore/rise/rise/rise_small/previews/west.png"
     ]
   }
 ]

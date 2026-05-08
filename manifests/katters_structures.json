@@ -355,16 +355,112 @@
     "datapack": "Katters Structures",
     "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
-    "structure": "sky_decor",
-    "id": "kattersstructures:sky_decor",
+    "structure": "sky_decor/sky_decor/sky_decor_01",
+    "id": "kattersstructures:sky_decor/sky_decor/sky_decor_01",
+    "blocks": 596,
+    "uniqueBlocks": 18,
+    "url": "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_01/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_01/previews/north.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_01/previews/east.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_01/previews/south.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_01/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "sky_decor/sky_decor/sky_decor_02",
+    "id": "kattersstructures:sky_decor/sky_decor/sky_decor_02",
+    "blocks": 596,
+    "uniqueBlocks": 20,
+    "url": "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_02/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_02/previews/north.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_02/previews/east.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_02/previews/south.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_02/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "sky_decor/sky_decor/sky_decor_03",
+    "id": "kattersstructures:sky_decor/sky_decor/sky_decor_03",
+    "blocks": 596,
+    "uniqueBlocks": 19,
+    "url": "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_03/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_03/previews/north.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_03/previews/east.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_03/previews/south.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_03/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "sky_decor/sky_decor/sky_decor_04",
+    "id": "kattersstructures:sky_decor/sky_decor/sky_decor_04",
+    "blocks": 540,
+    "uniqueBlocks": 13,
+    "url": "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_04/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_04/previews/north.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_04/previews/east.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_04/previews/south.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_04/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "sky_decor/sky_decor/sky_decor_05",
+    "id": "kattersstructures:sky_decor/sky_decor/sky_decor_05",
     "blocks": 540,
     "uniqueBlocks": 14,
-    "url": "structures/katters_structures/kattersstructures/sky_decor/index.html",
+    "url": "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_05/index.html",
     "previews": [
-      "structures/katters_structures/kattersstructures/sky_decor/previews/north.png",
-      "structures/katters_structures/kattersstructures/sky_decor/previews/east.png",
-      "structures/katters_structures/kattersstructures/sky_decor/previews/south.png",
-      "structures/katters_structures/kattersstructures/sky_decor/previews/west.png"
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_05/previews/north.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_05/previews/east.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_05/previews/south.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_05/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "sky_decor/sky_decor/sky_decor_06",
+    "id": "kattersstructures:sky_decor/sky_decor/sky_decor_06",
+    "blocks": 540,
+    "uniqueBlocks": 15,
+    "url": "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_06/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_06/previews/north.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_06/previews/east.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_06/previews/south.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_06/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "sky_decor/sky_decor/sky_decor_pillager_01",
+    "id": "kattersstructures:sky_decor/sky_decor/sky_decor_pillager_01",
+    "blocks": 3751,
+    "uniqueBlocks": 36,
+    "url": "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_pillager_01/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_pillager_01/previews/north.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_pillager_01/previews/east.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_pillager_01/previews/south.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_pillager_01/previews/west.png"
     ]
   },
   {

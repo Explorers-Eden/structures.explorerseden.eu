@@ -3,16 +3,32 @@
     "datapack": "Enchantments Encore",
     "datapackSlug": "enchantments_encore",
     "namespace": "enchantencore",
-    "structure": "rise",
-    "id": "enchantencore:rise",
+    "structure": "rise/rise/rise_big",
+    "id": "enchantencore:rise/rise/rise_big",
     "blocks": 7572,
     "uniqueBlocks": 27,
-    "url": "structures/enchantments_encore/enchantencore/rise/index.html",
+    "url": "structures/enchantments_encore/enchantencore/rise/rise/rise_big/index.html",
     "previews": [
-      "structures/enchantments_encore/enchantencore/rise/previews/north.png",
-      "structures/enchantments_encore/enchantencore/rise/previews/east.png",
-      "structures/enchantments_encore/enchantencore/rise/previews/south.png",
-      "structures/enchantments_encore/enchantencore/rise/previews/west.png"
+      "structures/enchantments_encore/enchantencore/rise/rise/rise_big/previews/north.png",
+      "structures/enchantments_encore/enchantencore/rise/rise/rise_big/previews/east.png",
+      "structures/enchantments_encore/enchantencore/rise/rise/rise_big/previews/south.png",
+      "structures/enchantments_encore/enchantencore/rise/rise/rise_big/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Enchantments Encore",
+    "datapackSlug": "enchantments_encore",
+    "namespace": "enchantencore",
+    "structure": "rise/rise/rise_small",
+    "id": "enchantencore:rise/rise/rise_small",
+    "blocks": 3400,
+    "uniqueBlocks": 26,
+    "url": "structures/enchantments_encore/enchantencore/rise/rise/rise_small/index.html",
+    "previews": [
+      "structures/enchantments_encore/enchantencore/rise/rise/rise_small/previews/north.png",
+      "structures/enchantments_encore/enchantencore/rise/rise/rise_small/previews/east.png",
+      "structures/enchantments_encore/enchantencore/rise/rise/rise_small/previews/south.png",
+      "structures/enchantments_encore/enchantencore/rise/rise/rise_small/previews/west.png"
     ]
   },
   {
@@ -611,16 +627,112 @@
     "datapack": "Katters Structures",
     "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
-    "structure": "sky_decor",
-    "id": "kattersstructures:sky_decor",
+    "structure": "sky_decor/sky_decor/sky_decor_01",
+    "id": "kattersstructures:sky_decor/sky_decor/sky_decor_01",
+    "blocks": 596,
+    "uniqueBlocks": 18,
+    "url": "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_01/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_01/previews/north.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_01/previews/east.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_01/previews/south.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_01/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "sky_decor/sky_decor/sky_decor_02",
+    "id": "kattersstructures:sky_decor/sky_decor/sky_decor_02",
+    "blocks": 596,
+    "uniqueBlocks": 20,
+    "url": "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_02/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_02/previews/north.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_02/previews/east.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_02/previews/south.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_02/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "sky_decor/sky_decor/sky_decor_03",
+    "id": "kattersstructures:sky_decor/sky_decor/sky_decor_03",
+    "blocks": 596,
+    "uniqueBlocks": 19,
+    "url": "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_03/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_03/previews/north.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_03/previews/east.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_03/previews/south.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_03/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "sky_decor/sky_decor/sky_decor_04",
+    "id": "kattersstructures:sky_decor/sky_decor/sky_decor_04",
+    "blocks": 540,
+    "uniqueBlocks": 13,
+    "url": "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_04/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_04/previews/north.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_04/previews/east.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_04/previews/south.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_04/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "sky_decor/sky_decor/sky_decor_05",
+    "id": "kattersstructures:sky_decor/sky_decor/sky_decor_05",
     "blocks": 540,
     "uniqueBlocks": 14,
-    "url": "structures/katters_structures/kattersstructures/sky_decor/index.html",
+    "url": "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_05/index.html",
     "previews": [
-      "structures/katters_structures/kattersstructures/sky_decor/previews/north.png",
-      "structures/katters_structures/kattersstructures/sky_decor/previews/east.png",
-      "structures/katters_structures/kattersstructures/sky_decor/previews/south.png",
-      "structures/katters_structures/kattersstructures/sky_decor/previews/west.png"
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_05/previews/north.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_05/previews/east.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_05/previews/south.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_05/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "sky_decor/sky_decor/sky_decor_06",
+    "id": "kattersstructures:sky_decor/sky_decor/sky_decor_06",
+    "blocks": 540,
+    "uniqueBlocks": 15,
+    "url": "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_06/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_06/previews/north.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_06/previews/east.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_06/previews/south.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_06/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "sky_decor/sky_decor/sky_decor_pillager_01",
+    "id": "kattersstructures:sky_decor/sky_decor/sky_decor_pillager_01",
+    "blocks": 3751,
+    "uniqueBlocks": 36,
+    "url": "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_pillager_01/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_pillager_01/previews/north.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_pillager_01/previews/east.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_pillager_01/previews/south.png",
+      "structures/katters_structures/kattersstructures/sky_decor/sky_decor/sky_decor_pillager_01/previews/west.png"
     ]
   },
   {
@@ -1027,16 +1139,32 @@
     "datapack": "Nice Mob Variants",
     "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
-    "structure": "fallen_mushroom",
-    "id": "nice_mob_variants:fallen_mushroom",
+    "structure": "fallen_mushroom/fallen_mushroom/type_1",
+    "id": "nice_mob_variants:fallen_mushroom/fallen_mushroom/type_1",
+    "blocks": 53,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/fallen_mushroom/type_1/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/fallen_mushroom/type_1/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/fallen_mushroom/type_1/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/fallen_mushroom/type_1/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/fallen_mushroom/type_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "fallen_mushroom/fallen_mushroom/type_2",
+    "id": "nice_mob_variants:fallen_mushroom/fallen_mushroom/type_2",
     "blocks": 61,
     "uniqueBlocks": 4,
-    "url": "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/fallen_mushroom/type_2/index.html",
     "previews": [
-      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/previews/north.png",
-      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/previews/east.png",
-      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/previews/south.png",
-      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/previews/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/fallen_mushroom/type_2/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/fallen_mushroom/type_2/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/fallen_mushroom/type_2/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/fallen_mushroom/type_2/previews/west.png"
     ]
   },
   {
@@ -1059,16 +1187,96 @@
     "datapack": "Nice Mob Variants",
     "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
-    "structure": "hot_spring",
-    "id": "nice_mob_variants:hot_spring",
+    "structure": "hot_spring/hot_spring/type_1",
+    "id": "nice_mob_variants:hot_spring/hot_spring/type_1",
     "blocks": 98,
     "uniqueBlocks": 8,
-    "url": "structures/nice_mob_variants/nice_mob_variants/hot_spring/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_1/index.html",
     "previews": [
-      "structures/nice_mob_variants/nice_mob_variants/hot_spring/previews/north.png",
-      "structures/nice_mob_variants/nice_mob_variants/hot_spring/previews/east.png",
-      "structures/nice_mob_variants/nice_mob_variants/hot_spring/previews/south.png",
-      "structures/nice_mob_variants/nice_mob_variants/hot_spring/previews/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_1/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_1/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_1/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "hot_spring/hot_spring/type_2",
+    "id": "nice_mob_variants:hot_spring/hot_spring/type_2",
+    "blocks": 71,
+    "uniqueBlocks": 6,
+    "url": "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_2/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_2/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_2/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_2/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_2/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "hot_spring/hot_spring/type_3",
+    "id": "nice_mob_variants:hot_spring/hot_spring/type_3",
+    "blocks": 71,
+    "uniqueBlocks": 6,
+    "url": "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_3/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_3/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_3/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_3/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_3/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "hot_spring/hot_spring/type_4",
+    "id": "nice_mob_variants:hot_spring/hot_spring/type_4",
+    "blocks": 98,
+    "uniqueBlocks": 8,
+    "url": "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_4/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_4/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_4/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_4/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_4/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "hot_spring/hot_spring/type_5",
+    "id": "nice_mob_variants:hot_spring/hot_spring/type_5",
+    "blocks": 98,
+    "uniqueBlocks": 8,
+    "url": "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_5/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_5/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_5/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_5/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_5/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "hot_spring/hot_spring/type_6",
+    "id": "nice_mob_variants:hot_spring/hot_spring/type_6",
+    "blocks": 71,
+    "uniqueBlocks": 6,
+    "url": "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_6/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_6/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_6/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_6/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/hot_spring/type_6/previews/west.png"
     ]
   },
   {
@@ -1091,32 +1299,96 @@
     "datapack": "Nice Mob Variants",
     "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
-    "structure": "nether_well",
-    "id": "nice_mob_variants:nether_well",
+    "structure": "nether_well/nether_well/type_1",
+    "id": "nice_mob_variants:nether_well/nether_well/type_1",
     "blocks": 40,
     "uniqueBlocks": 6,
-    "url": "structures/nice_mob_variants/nice_mob_variants/nether_well/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_1/index.html",
     "previews": [
-      "structures/nice_mob_variants/nice_mob_variants/nether_well/previews/north.png",
-      "structures/nice_mob_variants/nice_mob_variants/nether_well/previews/east.png",
-      "structures/nice_mob_variants/nice_mob_variants/nether_well/previews/south.png",
-      "structures/nice_mob_variants/nice_mob_variants/nether_well/previews/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_1/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_1/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_1/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_1/previews/west.png"
     ]
   },
   {
     "datapack": "Nice Mob Variants",
     "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
-    "structure": "pale_oak_tree",
-    "id": "nice_mob_variants:pale_oak_tree",
+    "structure": "nether_well/nether_well/type_2",
+    "id": "nice_mob_variants:nether_well/nether_well/type_2",
+    "blocks": 40,
+    "uniqueBlocks": 6,
+    "url": "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_2/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_2/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_2/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_2/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_2/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "nether_well/nether_well/type_3",
+    "id": "nice_mob_variants:nether_well/nether_well/type_3",
+    "blocks": 40,
+    "uniqueBlocks": 6,
+    "url": "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_3/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_3/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_3/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_3/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_3/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "nether_well/nether_well/type_4",
+    "id": "nice_mob_variants:nether_well/nether_well/type_4",
+    "blocks": 40,
+    "uniqueBlocks": 6,
+    "url": "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_4/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_4/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_4/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_4/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/nether_well/type_4/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "pale_oak_tree/pale_oak_tree/type_1",
+    "id": "nice_mob_variants:pale_oak_tree/pale_oak_tree/type_1",
+    "blocks": 64,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/pale_oak_tree/type_1/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/pale_oak_tree/type_1/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/pale_oak_tree/type_1/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/pale_oak_tree/type_1/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/pale_oak_tree/type_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "pale_oak_tree/pale_oak_tree/type_2",
+    "id": "nice_mob_variants:pale_oak_tree/pale_oak_tree/type_2",
     "blocks": 78,
     "uniqueBlocks": 4,
-    "url": "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/pale_oak_tree/type_2/index.html",
     "previews": [
-      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/previews/north.png",
-      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/previews/east.png",
-      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/previews/south.png",
-      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/previews/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/pale_oak_tree/type_2/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/pale_oak_tree/type_2/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/pale_oak_tree/type_2/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/pale_oak_tree/type_2/previews/west.png"
     ]
   },
   {
@@ -1203,112 +1475,1296 @@
     "datapack": "Nice Things",
     "datapackSlug": "nice_things",
     "namespace": "nice_things",
-    "structure": "desert_decorations",
-    "id": "nice_things:desert_decorations",
+    "structure": "desert_decorations/desert_decorations/statue_1",
+    "id": "nice_things:desert_decorations/desert_decorations/statue_1",
+    "blocks": 51,
+    "uniqueBlocks": 10,
+    "url": "structures/nice_things/nice_things/desert_decorations/desert_decorations/statue_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/statue_1/previews/north.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/statue_1/previews/east.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/statue_1/previews/south.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/statue_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "desert_decorations/desert_decorations/statue_2",
+    "id": "nice_things:desert_decorations/desert_decorations/statue_2",
+    "blocks": 51,
+    "uniqueBlocks": 9,
+    "url": "structures/nice_things/nice_things/desert_decorations/desert_decorations/statue_2/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/statue_2/previews/north.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/statue_2/previews/east.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/statue_2/previews/south.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/statue_2/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "desert_decorations/desert_decorations/statue_3",
+    "id": "nice_things:desert_decorations/desert_decorations/statue_3",
+    "blocks": 51,
+    "uniqueBlocks": 9,
+    "url": "structures/nice_things/nice_things/desert_decorations/desert_decorations/statue_3/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/statue_3/previews/north.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/statue_3/previews/east.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/statue_3/previews/south.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/statue_3/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "desert_decorations/desert_decorations/lamp_1",
+    "id": "nice_things:desert_decorations/desert_decorations/lamp_1",
     "blocks": 20,
     "uniqueBlocks": 4,
-    "url": "structures/nice_things/nice_things/desert_decorations/index.html",
+    "url": "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_1/index.html",
     "previews": [
-      "structures/nice_things/nice_things/desert_decorations/previews/north.png",
-      "structures/nice_things/nice_things/desert_decorations/previews/east.png",
-      "structures/nice_things/nice_things/desert_decorations/previews/south.png",
-      "structures/nice_things/nice_things/desert_decorations/previews/west.png"
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_1/previews/north.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_1/previews/east.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_1/previews/south.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_1/previews/west.png"
     ]
   },
   {
     "datapack": "Nice Things",
     "datapackSlug": "nice_things",
     "namespace": "nice_things",
-    "structure": "end_ship_crashed",
-    "id": "nice_things:end_ship_crashed",
+    "structure": "desert_decorations/desert_decorations/lamp_2",
+    "id": "nice_things:desert_decorations/desert_decorations/lamp_2",
+    "blocks": 20,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_2/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_2/previews/north.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_2/previews/east.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_2/previews/south.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_2/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "desert_decorations/desert_decorations/lamp_3",
+    "id": "nice_things:desert_decorations/desert_decorations/lamp_3",
+    "blocks": 20,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_3/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_3/previews/north.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_3/previews/east.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_3/previews/south.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_3/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "desert_decorations/desert_decorations/lamp_4",
+    "id": "nice_things:desert_decorations/desert_decorations/lamp_4",
+    "blocks": 20,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_4/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_4/previews/north.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_4/previews/east.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_4/previews/south.png",
+      "structures/nice_things/nice_things/desert_decorations/desert_decorations/lamp_4/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "end_ship_crashed/end_ship/09",
+    "id": "nice_things:end_ship_crashed/end_ship/09",
+    "blocks": 164,
+    "uniqueBlocks": 7,
+    "url": "structures/nice_things/nice_things/end_ship_crashed/end_ship/09/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/end_ship_crashed/end_ship/09/previews/north.png",
+      "structures/nice_things/nice_things/end_ship_crashed/end_ship/09/previews/east.png",
+      "structures/nice_things/nice_things/end_ship_crashed/end_ship/09/previews/south.png",
+      "structures/nice_things/nice_things/end_ship_crashed/end_ship/09/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "end_ship_crashed/end_ship/10",
+    "id": "nice_things:end_ship_crashed/end_ship/10",
     "blocks": 435,
     "uniqueBlocks": 9,
-    "url": "structures/nice_things/nice_things/end_ship_crashed/index.html",
+    "url": "structures/nice_things/nice_things/end_ship_crashed/end_ship/10/index.html",
     "previews": [
-      "structures/nice_things/nice_things/end_ship_crashed/previews/north.png",
-      "structures/nice_things/nice_things/end_ship_crashed/previews/east.png",
-      "structures/nice_things/nice_things/end_ship_crashed/previews/south.png",
-      "structures/nice_things/nice_things/end_ship_crashed/previews/west.png"
+      "structures/nice_things/nice_things/end_ship_crashed/end_ship/10/previews/north.png",
+      "structures/nice_things/nice_things/end_ship_crashed/end_ship/10/previews/east.png",
+      "structures/nice_things/nice_things/end_ship_crashed/end_ship/10/previews/south.png",
+      "structures/nice_things/nice_things/end_ship_crashed/end_ship/10/previews/west.png"
     ]
   },
   {
     "datapack": "Nice Things",
     "datapackSlug": "nice_things",
     "namespace": "nice_things",
-    "structure": "end_ship_flying",
-    "id": "nice_things:end_ship_flying",
+    "structure": "end_ship_flying/end_ship/01",
+    "id": "nice_things:end_ship_flying/end_ship/01",
+    "blocks": 313,
+    "uniqueBlocks": 8,
+    "url": "structures/nice_things/nice_things/end_ship_flying/end_ship/01/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/01/previews/north.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/01/previews/east.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/01/previews/south.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/01/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "end_ship_flying/end_ship/02",
+    "id": "nice_things:end_ship_flying/end_ship/02",
+    "blocks": 940,
+    "uniqueBlocks": 12,
+    "url": "structures/nice_things/nice_things/end_ship_flying/end_ship/02/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/02/previews/north.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/02/previews/east.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/02/previews/south.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/02/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "end_ship_flying/end_ship/03",
+    "id": "nice_things:end_ship_flying/end_ship/03",
+    "blocks": 1118,
+    "uniqueBlocks": 16,
+    "url": "structures/nice_things/nice_things/end_ship_flying/end_ship/03/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/03/previews/north.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/03/previews/east.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/03/previews/south.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/03/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "end_ship_flying/end_ship/04",
+    "id": "nice_things:end_ship_flying/end_ship/04",
     "blocks": 583,
     "uniqueBlocks": 14,
-    "url": "structures/nice_things/nice_things/end_ship_flying/index.html",
+    "url": "structures/nice_things/nice_things/end_ship_flying/end_ship/04/index.html",
     "previews": [
-      "structures/nice_things/nice_things/end_ship_flying/previews/north.png",
-      "structures/nice_things/nice_things/end_ship_flying/previews/east.png",
-      "structures/nice_things/nice_things/end_ship_flying/previews/south.png",
-      "structures/nice_things/nice_things/end_ship_flying/previews/west.png"
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/04/previews/north.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/04/previews/east.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/04/previews/south.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/04/previews/west.png"
     ]
   },
   {
     "datapack": "Nice Things",
     "datapackSlug": "nice_things",
     "namespace": "nice_things",
-    "structure": "jungle_decorations",
-    "id": "nice_things:jungle_decorations",
+    "structure": "end_ship_flying/end_ship/05",
+    "id": "nice_things:end_ship_flying/end_ship/05",
+    "blocks": 1472,
+    "uniqueBlocks": 23,
+    "url": "structures/nice_things/nice_things/end_ship_flying/end_ship/05/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/05/previews/north.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/05/previews/east.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/05/previews/south.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/05/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "end_ship_flying/end_ship/06",
+    "id": "nice_things:end_ship_flying/end_ship/06",
+    "blocks": 211,
+    "uniqueBlocks": 7,
+    "url": "structures/nice_things/nice_things/end_ship_flying/end_ship/06/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/06/previews/north.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/06/previews/east.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/06/previews/south.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/06/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "end_ship_flying/end_ship/07",
+    "id": "nice_things:end_ship_flying/end_ship/07",
+    "blocks": 1617,
+    "uniqueBlocks": 16,
+    "url": "structures/nice_things/nice_things/end_ship_flying/end_ship/07/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/07/previews/north.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/07/previews/east.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/07/previews/south.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/07/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "end_ship_flying/end_ship/08",
+    "id": "nice_things:end_ship_flying/end_ship/08",
+    "blocks": 3143,
+    "uniqueBlocks": 20,
+    "url": "structures/nice_things/nice_things/end_ship_flying/end_ship/08/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/08/previews/north.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/08/previews/east.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/08/previews/south.png",
+      "structures/nice_things/nice_things/end_ship_flying/end_ship/08/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "jungle_decorations/jungle_decorations/bamboo_farm_1",
+    "id": "nice_things:jungle_decorations/jungle_decorations/bamboo_farm_1",
+    "blocks": 68,
+    "uniqueBlocks": 10,
+    "url": "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_1/previews/north.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_1/previews/east.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_1/previews/south.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "jungle_decorations/jungle_decorations/bamboo_farm_2",
+    "id": "nice_things:jungle_decorations/jungle_decorations/bamboo_farm_2",
+    "blocks": 62,
+    "uniqueBlocks": 10,
+    "url": "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_2/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_2/previews/north.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_2/previews/east.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_2/previews/south.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_2/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "jungle_decorations/jungle_decorations/bamboo_farm_3",
+    "id": "nice_things:jungle_decorations/jungle_decorations/bamboo_farm_3",
+    "blocks": 57,
+    "uniqueBlocks": 10,
+    "url": "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_3/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_3/previews/north.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_3/previews/east.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_3/previews/south.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_3/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "jungle_decorations/jungle_decorations/bamboo_farm_4",
+    "id": "nice_things:jungle_decorations/jungle_decorations/bamboo_farm_4",
+    "blocks": 48,
+    "uniqueBlocks": 10,
+    "url": "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_4/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_4/previews/north.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_4/previews/east.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_4/previews/south.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/bamboo_farm_4/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "jungle_decorations/jungle_decorations/cookie_farm_1",
+    "id": "nice_things:jungle_decorations/jungle_decorations/cookie_farm_1",
+    "blocks": 42,
+    "uniqueBlocks": 7,
+    "url": "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/cookie_farm_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/cookie_farm_1/previews/north.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/cookie_farm_1/previews/east.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/cookie_farm_1/previews/south.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/cookie_farm_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "jungle_decorations/jungle_decorations/cookie_farm_2",
+    "id": "nice_things:jungle_decorations/jungle_decorations/cookie_farm_2",
+    "blocks": 32,
+    "uniqueBlocks": 7,
+    "url": "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/cookie_farm_2/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/cookie_farm_2/previews/north.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/cookie_farm_2/previews/east.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/cookie_farm_2/previews/south.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/cookie_farm_2/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "jungle_decorations/jungle_decorations/cookie_farm_3",
+    "id": "nice_things:jungle_decorations/jungle_decorations/cookie_farm_3",
     "blocks": 28,
     "uniqueBlocks": 7,
-    "url": "structures/nice_things/nice_things/jungle_decorations/index.html",
+    "url": "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/cookie_farm_3/index.html",
     "previews": [
-      "structures/nice_things/nice_things/jungle_decorations/previews/north.png",
-      "structures/nice_things/nice_things/jungle_decorations/previews/east.png",
-      "structures/nice_things/nice_things/jungle_decorations/previews/south.png",
-      "structures/nice_things/nice_things/jungle_decorations/previews/west.png"
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/cookie_farm_3/previews/north.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/cookie_farm_3/previews/east.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/cookie_farm_3/previews/south.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/cookie_farm_3/previews/west.png"
     ]
   },
   {
     "datapack": "Nice Things",
     "datapackSlug": "nice_things",
     "namespace": "nice_things",
-    "structure": "ocean_underground_decorations",
-    "id": "nice_things:ocean_underground_decorations",
+    "structure": "jungle_decorations/jungle_decorations/temple_1",
+    "id": "nice_things:jungle_decorations/jungle_decorations/temple_1",
+    "blocks": 339,
+    "uniqueBlocks": 15,
+    "url": "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_1/previews/north.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_1/previews/east.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_1/previews/south.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "jungle_decorations/jungle_decorations/temple_2",
+    "id": "nice_things:jungle_decorations/jungle_decorations/temple_2",
+    "blocks": 326,
+    "uniqueBlocks": 11,
+    "url": "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_2/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_2/previews/north.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_2/previews/east.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_2/previews/south.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_2/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "jungle_decorations/jungle_decorations/temple_3",
+    "id": "nice_things:jungle_decorations/jungle_decorations/temple_3",
+    "blocks": 326,
+    "uniqueBlocks": 11,
+    "url": "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_3/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_3/previews/north.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_3/previews/east.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_3/previews/south.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_3/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "jungle_decorations/jungle_decorations/temple_4",
+    "id": "nice_things:jungle_decorations/jungle_decorations/temple_4",
+    "blocks": 335,
+    "uniqueBlocks": 16,
+    "url": "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_4/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_4/previews/north.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_4/previews/east.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_4/previews/south.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/temple_4/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "jungle_decorations/jungle_decorations/torch_1",
+    "id": "nice_things:jungle_decorations/jungle_decorations/torch_1",
+    "blocks": 16,
+    "uniqueBlocks": 6,
+    "url": "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_1/previews/north.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_1/previews/east.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_1/previews/south.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "jungle_decorations/jungle_decorations/torch_2",
+    "id": "nice_things:jungle_decorations/jungle_decorations/torch_2",
+    "blocks": 16,
+    "uniqueBlocks": 5,
+    "url": "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_2/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_2/previews/north.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_2/previews/east.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_2/previews/south.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_2/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "jungle_decorations/jungle_decorations/torch_3",
+    "id": "nice_things:jungle_decorations/jungle_decorations/torch_3",
+    "blocks": 16,
+    "uniqueBlocks": 5,
+    "url": "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_3/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_3/previews/north.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_3/previews/east.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_3/previews/south.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_3/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "jungle_decorations/jungle_decorations/torch_4",
+    "id": "nice_things:jungle_decorations/jungle_decorations/torch_4",
+    "blocks": 16,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_4/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_4/previews/north.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_4/previews/east.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_4/previews/south.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/torch_4/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "jungle_decorations/jungle_decorations/statue_1",
+    "id": "nice_things:jungle_decorations/jungle_decorations/statue_1",
+    "blocks": 154,
+    "uniqueBlocks": 13,
+    "url": "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/statue_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/statue_1/previews/north.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/statue_1/previews/east.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/statue_1/previews/south.png",
+      "structures/nice_things/nice_things/jungle_decorations/jungle_decorations/statue_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "ocean_underground_decorations/ocean_underground_decorations/seamines_1",
+    "id": "nice_things:ocean_underground_decorations/ocean_underground_decorations/seamines_1",
     "blocks": 30,
     "uniqueBlocks": 4,
-    "url": "structures/nice_things/nice_things/ocean_underground_decorations/index.html",
+    "url": "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_1/index.html",
     "previews": [
-      "structures/nice_things/nice_things/ocean_underground_decorations/previews/north.png",
-      "structures/nice_things/nice_things/ocean_underground_decorations/previews/east.png",
-      "structures/nice_things/nice_things/ocean_underground_decorations/previews/south.png",
-      "structures/nice_things/nice_things/ocean_underground_decorations/previews/west.png"
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_1/previews/north.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_1/previews/east.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_1/previews/south.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_1/previews/west.png"
     ]
   },
   {
     "datapack": "Nice Things",
     "datapackSlug": "nice_things",
     "namespace": "nice_things",
-    "structure": "snow_decorations",
-    "id": "nice_things:snow_decorations",
+    "structure": "ocean_underground_decorations/ocean_underground_decorations/seamines_2",
+    "id": "nice_things:ocean_underground_decorations/ocean_underground_decorations/seamines_2",
+    "blocks": 29,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_2/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_2/previews/north.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_2/previews/east.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_2/previews/south.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_2/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "ocean_underground_decorations/ocean_underground_decorations/seamines_3",
+    "id": "nice_things:ocean_underground_decorations/ocean_underground_decorations/seamines_3",
+    "blocks": 30,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_3/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_3/previews/north.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_3/previews/east.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_3/previews/south.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_3/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "ocean_underground_decorations/ocean_underground_decorations/seamines_4",
+    "id": "nice_things:ocean_underground_decorations/ocean_underground_decorations/seamines_4",
+    "blocks": 29,
+    "uniqueBlocks": 12,
+    "url": "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_4/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_4/previews/north.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_4/previews/east.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_4/previews/south.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_4/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "ocean_underground_decorations/ocean_underground_decorations/seamines_5",
+    "id": "nice_things:ocean_underground_decorations/ocean_underground_decorations/seamines_5",
+    "blocks": 29,
+    "uniqueBlocks": 12,
+    "url": "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_5/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_5/previews/north.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_5/previews/east.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_5/previews/south.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_5/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "ocean_underground_decorations/ocean_underground_decorations/seamines_6",
+    "id": "nice_things:ocean_underground_decorations/ocean_underground_decorations/seamines_6",
+    "blocks": 27,
+    "uniqueBlocks": 12,
+    "url": "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_6/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_6/previews/north.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_6/previews/east.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_6/previews/south.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/seamines_6/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "ocean_underground_decorations/ocean_underground_decorations/airpocket_1",
+    "id": "nice_things:ocean_underground_decorations/ocean_underground_decorations/airpocket_1",
+    "blocks": 35,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/airpocket_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/airpocket_1/previews/north.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/airpocket_1/previews/east.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/airpocket_1/previews/south.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/airpocket_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "ocean_underground_decorations/ocean_underground_decorations/airpocket_2",
+    "id": "nice_things:ocean_underground_decorations/ocean_underground_decorations/airpocket_2",
+    "blocks": 48,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/airpocket_2/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/airpocket_2/previews/north.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/airpocket_2/previews/east.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/airpocket_2/previews/south.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/ocean_underground_decorations/airpocket_2/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "snow_decorations/snow_decorations/cage_1",
+    "id": "nice_things:snow_decorations/snow_decorations/cage_1",
+    "blocks": 56,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_things/nice_things/snow_decorations/snow_decorations/cage_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/cage_1/previews/north.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/cage_1/previews/east.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/cage_1/previews/south.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/cage_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "snow_decorations/snow_decorations/campfire_1",
+    "id": "nice_things:snow_decorations/snow_decorations/campfire_1",
+    "blocks": 14,
+    "uniqueBlocks": 8,
+    "url": "structures/nice_things/nice_things/snow_decorations/snow_decorations/campfire_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/campfire_1/previews/north.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/campfire_1/previews/east.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/campfire_1/previews/south.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/campfire_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "snow_decorations/snow_decorations/candy_cane_1",
+    "id": "nice_things:snow_decorations/snow_decorations/candy_cane_1",
+    "blocks": 7,
+    "uniqueBlocks": 3,
+    "url": "structures/nice_things/nice_things/snow_decorations/snow_decorations/candy_cane_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/candy_cane_1/previews/north.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/candy_cane_1/previews/east.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/candy_cane_1/previews/south.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/candy_cane_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "snow_decorations/snow_decorations/candy_cane_2",
+    "id": "nice_things:snow_decorations/snow_decorations/candy_cane_2",
+    "blocks": 9,
+    "uniqueBlocks": 3,
+    "url": "structures/nice_things/nice_things/snow_decorations/snow_decorations/candy_cane_2/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/candy_cane_2/previews/north.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/candy_cane_2/previews/east.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/candy_cane_2/previews/south.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/candy_cane_2/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "snow_decorations/snow_decorations/candy_cane_3",
+    "id": "nice_things:snow_decorations/snow_decorations/candy_cane_3",
+    "blocks": 16,
+    "uniqueBlocks": 3,
+    "url": "structures/nice_things/nice_things/snow_decorations/snow_decorations/candy_cane_3/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/candy_cane_3/previews/north.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/candy_cane_3/previews/east.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/candy_cane_3/previews/south.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/candy_cane_3/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "snow_decorations/snow_decorations/hot_tub_1",
+    "id": "nice_things:snow_decorations/snow_decorations/hot_tub_1",
+    "blocks": 36,
+    "uniqueBlocks": 9,
+    "url": "structures/nice_things/nice_things/snow_decorations/snow_decorations/hot_tub_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/hot_tub_1/previews/north.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/hot_tub_1/previews/east.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/hot_tub_1/previews/south.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/hot_tub_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "snow_decorations/snow_decorations/sled_1",
+    "id": "nice_things:snow_decorations/snow_decorations/sled_1",
+    "blocks": 8,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_things/nice_things/snow_decorations/snow_decorations/sled_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/sled_1/previews/north.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/sled_1/previews/east.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/sled_1/previews/south.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/sled_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "snow_decorations/snow_decorations/snowman_1",
+    "id": "nice_things:snow_decorations/snow_decorations/snowman_1",
+    "blocks": 8,
+    "uniqueBlocks": 6,
+    "url": "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_1/previews/north.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_1/previews/east.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_1/previews/south.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "snow_decorations/snow_decorations/snowman_2",
+    "id": "nice_things:snow_decorations/snow_decorations/snowman_2",
+    "blocks": 7,
+    "uniqueBlocks": 6,
+    "url": "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_2/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_2/previews/north.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_2/previews/east.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_2/previews/south.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_2/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "snow_decorations/snow_decorations/snowman_3",
+    "id": "nice_things:snow_decorations/snow_decorations/snowman_3",
+    "blocks": 6,
+    "uniqueBlocks": 5,
+    "url": "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_3/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_3/previews/north.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_3/previews/east.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_3/previews/south.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_3/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "snow_decorations/snow_decorations/snowman_4",
+    "id": "nice_things:snow_decorations/snow_decorations/snowman_4",
+    "blocks": 5,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_4/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_4/previews/north.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_4/previews/east.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_4/previews/south.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_4/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "snow_decorations/snow_decorations/snowman_5",
+    "id": "nice_things:snow_decorations/snow_decorations/snowman_5",
+    "blocks": 3,
+    "uniqueBlocks": 3,
+    "url": "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_5/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_5/previews/north.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_5/previews/east.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_5/previews/south.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/snowman_5/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "snow_decorations/snow_decorations/cauldrons_1",
+    "id": "nice_things:snow_decorations/snow_decorations/cauldrons_1",
     "blocks": 9,
     "uniqueBlocks": 6,
-    "url": "structures/nice_things/nice_things/snow_decorations/index.html",
+    "url": "structures/nice_things/nice_things/snow_decorations/snow_decorations/cauldrons_1/index.html",
     "previews": [
-      "structures/nice_things/nice_things/snow_decorations/previews/north.png",
-      "structures/nice_things/nice_things/snow_decorations/previews/east.png",
-      "structures/nice_things/nice_things/snow_decorations/previews/south.png",
-      "structures/nice_things/nice_things/snow_decorations/previews/west.png"
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/cauldrons_1/previews/north.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/cauldrons_1/previews/east.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/cauldrons_1/previews/south.png",
+      "structures/nice_things/nice_things/snow_decorations/snow_decorations/cauldrons_1/previews/west.png"
     ]
   },
   {
     "datapack": "Nice Things",
     "datapackSlug": "nice_things",
     "namespace": "nice_things",
-    "structure": "taiga_decorations",
-    "id": "nice_things:taiga_decorations",
+    "structure": "taiga_decorations/taiga_decorations/fallen_tree_1",
+    "id": "nice_things:taiga_decorations/taiga_decorations/fallen_tree_1",
+    "blocks": 16,
+    "uniqueBlocks": 2,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_1/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_1/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_1/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/fallen_tree_2",
+    "id": "nice_things:taiga_decorations/taiga_decorations/fallen_tree_2",
+    "blocks": 32,
+    "uniqueBlocks": 2,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_2/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_2/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_2/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_2/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_2/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/fallen_tree_3",
+    "id": "nice_things:taiga_decorations/taiga_decorations/fallen_tree_3",
+    "blocks": 17,
+    "uniqueBlocks": 2,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_3/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_3/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_3/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_3/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_3/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/fallen_tree_4",
+    "id": "nice_things:taiga_decorations/taiga_decorations/fallen_tree_4",
+    "blocks": 31,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_4/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_4/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_4/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_4/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_4/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/fallen_tree_5",
+    "id": "nice_things:taiga_decorations/taiga_decorations/fallen_tree_5",
+    "blocks": 21,
+    "uniqueBlocks": 3,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_5/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_5/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_5/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_5/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_5/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/fallen_tree_6",
+    "id": "nice_things:taiga_decorations/taiga_decorations/fallen_tree_6",
+    "blocks": 15,
+    "uniqueBlocks": 3,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_6/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_6/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_6/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_6/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_6/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/fallen_tree_7",
+    "id": "nice_things:taiga_decorations/taiga_decorations/fallen_tree_7",
+    "blocks": 74,
+    "uniqueBlocks": 2,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_7/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_7/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_7/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_7/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fallen_tree_7/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/fox_trap_1",
+    "id": "nice_things:taiga_decorations/taiga_decorations/fox_trap_1",
+    "blocks": 57,
+    "uniqueBlocks": 7,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fox_trap_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fox_trap_1/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fox_trap_1/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fox_trap_1/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fox_trap_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/fox_trap_2",
+    "id": "nice_things:taiga_decorations/taiga_decorations/fox_trap_2",
+    "blocks": 56,
+    "uniqueBlocks": 7,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fox_trap_2/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fox_trap_2/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fox_trap_2/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fox_trap_2/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/fox_trap_2/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/house_1",
+    "id": "nice_things:taiga_decorations/taiga_decorations/house_1",
+    "blocks": 280,
+    "uniqueBlocks": 20,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/house_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/house_1/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/house_1/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/house_1/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/house_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/house_2",
+    "id": "nice_things:taiga_decorations/taiga_decorations/house_2",
+    "blocks": 255,
+    "uniqueBlocks": 17,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/house_2/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/house_2/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/house_2/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/house_2/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/house_2/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/house_3",
+    "id": "nice_things:taiga_decorations/taiga_decorations/house_3",
+    "blocks": 358,
+    "uniqueBlocks": 23,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/house_3/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/house_3/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/house_3/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/house_3/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/house_3/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/sweet_berry_farm_1",
+    "id": "nice_things:taiga_decorations/taiga_decorations/sweet_berry_farm_1",
+    "blocks": 19,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_1/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_1/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_1/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/sweet_berry_farm_2",
+    "id": "nice_things:taiga_decorations/taiga_decorations/sweet_berry_farm_2",
+    "blocks": 13,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_2/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_2/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_2/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_2/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_2/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/sweet_berry_farm_3",
+    "id": "nice_things:taiga_decorations/taiga_decorations/sweet_berry_farm_3",
+    "blocks": 16,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_3/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_3/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_3/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_3/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_3/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/sweet_berry_farm_4",
+    "id": "nice_things:taiga_decorations/taiga_decorations/sweet_berry_farm_4",
+    "blocks": 10,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_4/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_4/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_4/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_4/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/sweet_berry_farm_4/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/tent_1",
+    "id": "nice_things:taiga_decorations/taiga_decorations/tent_1",
+    "blocks": 50,
+    "uniqueBlocks": 8,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/tent_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/tent_1/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/tent_1/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/tent_1/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/tent_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/tent_2",
+    "id": "nice_things:taiga_decorations/taiga_decorations/tent_2",
     "blocks": 49,
     "uniqueBlocks": 6,
-    "url": "structures/nice_things/nice_things/taiga_decorations/index.html",
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/tent_2/index.html",
     "previews": [
-      "structures/nice_things/nice_things/taiga_decorations/previews/north.png",
-      "structures/nice_things/nice_things/taiga_decorations/previews/east.png",
-      "structures/nice_things/nice_things/taiga_decorations/previews/south.png",
-      "structures/nice_things/nice_things/taiga_decorations/previews/west.png"
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/tent_2/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/tent_2/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/tent_2/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/tent_2/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/tent_3",
+    "id": "nice_things:taiga_decorations/taiga_decorations/tent_3",
+    "blocks": 49,
+    "uniqueBlocks": 7,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/tent_3/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/tent_3/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/tent_3/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/tent_3/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/tent_3/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/trunks_1",
+    "id": "nice_things:taiga_decorations/taiga_decorations/trunks_1",
+    "blocks": 22,
+    "uniqueBlocks": 2,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/trunks_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/trunks_1/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/trunks_1/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/trunks_1/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/trunks_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/trunks_2",
+    "id": "nice_things:taiga_decorations/taiga_decorations/trunks_2",
+    "blocks": 23,
+    "uniqueBlocks": 2,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/trunks_2/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/trunks_2/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/trunks_2/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/trunks_2/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/trunks_2/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/trunks_3",
+    "id": "nice_things:taiga_decorations/taiga_decorations/trunks_3",
+    "blocks": 26,
+    "uniqueBlocks": 2,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/trunks_3/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/trunks_3/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/trunks_3/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/trunks_3/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/trunks_3/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/wagon_1",
+    "id": "nice_things:taiga_decorations/taiga_decorations/wagon_1",
+    "blocks": 15,
+    "uniqueBlocks": 9,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/wagon_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/wagon_1/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/wagon_1/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/wagon_1/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/wagon_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/well_1",
+    "id": "nice_things:taiga_decorations/taiga_decorations/well_1",
+    "blocks": 30,
+    "uniqueBlocks": 8,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_1/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_1/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_1/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_1/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_1/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/well_2",
+    "id": "nice_things:taiga_decorations/taiga_decorations/well_2",
+    "blocks": 30,
+    "uniqueBlocks": 8,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_2/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_2/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_2/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_2/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_2/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/well_3",
+    "id": "nice_things:taiga_decorations/taiga_decorations/well_3",
+    "blocks": 30,
+    "uniqueBlocks": 8,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_3/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_3/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_3/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_3/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_3/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations/taiga_decorations/well_4",
+    "id": "nice_things:taiga_decorations/taiga_decorations/well_4",
+    "blocks": 30,
+    "uniqueBlocks": 8,
+    "url": "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_4/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_4/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_4/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_4/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/taiga_decorations/well_4/previews/west.png"
     ]
   },
   {
