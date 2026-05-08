@@ -1,1487 +1,1426 @@
 [
   {
-    "datapack": "enchantments_encore",
+    "datapack": "Enchantments Encore",
+    "datapackSlug": "enchantments_encore",
     "namespace": "enchantencore",
     "structure": "rise",
     "id": "enchantencore:rise",
     "blocks": 7572,
     "uniqueBlocks": 27,
-    "url": "../enchantments_encore/web/structures/enchantencore/rise/index.html",
+    "url": "structures/enchantments_encore/enchantencore/rise/index.html",
     "previews": [
-      "../enchantments_encore/images/structures/enchantencore/rise/north.png",
-      "../enchantments_encore/images/structures/enchantencore/rise/east.png",
-      "../enchantments_encore/images/structures/enchantencore/rise/south.png",
-      "../enchantments_encore/images/structures/enchantencore/rise/west.png"
+      "structures/enchantments_encore/enchantencore/rise/previews/north.png",
+      "structures/enchantments_encore/enchantencore/rise/previews/east.png",
+      "structures/enchantments_encore/enchantencore/rise/previews/south.png",
+      "structures/enchantments_encore/enchantencore/rise/previews/west.png"
     ]
   },
   {
-    "datapack": "fabled_roots",
+    "datapack": "Fabled Roots",
+    "datapackSlug": "fabled_roots",
     "namespace": "fabled_roots",
     "structure": "congress_hall/congress_hall",
     "id": "fabled_roots:congress_hall/congress_hall",
     "blocks": 16530,
     "uniqueBlocks": 98,
-    "url": "../fabled_roots/web/structures/fabled_roots/congress_hall/congress_hall/index.html",
+    "url": "structures/fabled_roots/fabled_roots/congress_hall/congress_hall/index.html",
     "previews": [
-      "../fabled_roots/images/structures/fabled_roots/congress_hall/congress_hall/north.png",
-      "../fabled_roots/images/structures/fabled_roots/congress_hall/congress_hall/east.png",
-      "../fabled_roots/images/structures/fabled_roots/congress_hall/congress_hall/south.png",
-      "../fabled_roots/images/structures/fabled_roots/congress_hall/congress_hall/west.png"
+      "structures/fabled_roots/fabled_roots/congress_hall/congress_hall/previews/north.png",
+      "structures/fabled_roots/fabled_roots/congress_hall/congress_hall/previews/east.png",
+      "structures/fabled_roots/fabled_roots/congress_hall/congress_hall/previews/south.png",
+      "structures/fabled_roots/fabled_roots/congress_hall/congress_hall/previews/west.png"
     ]
   },
   {
-    "datapack": "fabled_roots",
+    "datapack": "Fabled Roots",
+    "datapackSlug": "fabled_roots",
     "namespace": "fabled_roots",
     "structure": "outpost/dunesworn",
     "id": "fabled_roots:outpost/dunesworn",
     "blocks": 1149,
     "uniqueBlocks": 15,
-    "url": "../fabled_roots/web/structures/fabled_roots/outpost/dunesworn/index.html",
+    "url": "structures/fabled_roots/fabled_roots/outpost/dunesworn/index.html",
     "previews": [
-      "../fabled_roots/images/structures/fabled_roots/outpost/dunesworn/north.png",
-      "../fabled_roots/images/structures/fabled_roots/outpost/dunesworn/east.png",
-      "../fabled_roots/images/structures/fabled_roots/outpost/dunesworn/south.png",
-      "../fabled_roots/images/structures/fabled_roots/outpost/dunesworn/west.png"
+      "structures/fabled_roots/fabled_roots/outpost/dunesworn/previews/north.png",
+      "structures/fabled_roots/fabled_roots/outpost/dunesworn/previews/east.png",
+      "structures/fabled_roots/fabled_roots/outpost/dunesworn/previews/south.png",
+      "structures/fabled_roots/fabled_roots/outpost/dunesworn/previews/west.png"
     ]
   },
   {
-    "datapack": "fabled_roots",
+    "datapack": "Fabled Roots",
+    "datapackSlug": "fabled_roots",
     "namespace": "fabled_roots",
     "structure": "outpost/endling",
     "id": "fabled_roots:outpost/endling",
     "blocks": 1149,
     "uniqueBlocks": 11,
-    "url": "../fabled_roots/web/structures/fabled_roots/outpost/endling/index.html",
+    "url": "structures/fabled_roots/fabled_roots/outpost/endling/index.html",
     "previews": [
-      "../fabled_roots/images/structures/fabled_roots/outpost/endling/north.png",
-      "../fabled_roots/images/structures/fabled_roots/outpost/endling/east.png",
-      "../fabled_roots/images/structures/fabled_roots/outpost/endling/south.png",
-      "../fabled_roots/images/structures/fabled_roots/outpost/endling/west.png"
+      "structures/fabled_roots/fabled_roots/outpost/endling/previews/north.png",
+      "structures/fabled_roots/fabled_roots/outpost/endling/previews/east.png",
+      "structures/fabled_roots/fabled_roots/outpost/endling/previews/south.png",
+      "structures/fabled_roots/fabled_roots/outpost/endling/previews/west.png"
     ]
   },
   {
-    "datapack": "fabled_roots",
+    "datapack": "Fabled Roots",
+    "datapackSlug": "fabled_roots",
     "namespace": "fabled_roots",
     "structure": "outpost/oakhearted",
     "id": "fabled_roots:outpost/oakhearted",
     "blocks": 1150,
     "uniqueBlocks": 14,
-    "url": "../fabled_roots/web/structures/fabled_roots/outpost/oakhearted/index.html",
+    "url": "structures/fabled_roots/fabled_roots/outpost/oakhearted/index.html",
     "previews": [
-      "../fabled_roots/images/structures/fabled_roots/outpost/oakhearted/north.png",
-      "../fabled_roots/images/structures/fabled_roots/outpost/oakhearted/east.png",
-      "../fabled_roots/images/structures/fabled_roots/outpost/oakhearted/south.png",
-      "../fabled_roots/images/structures/fabled_roots/outpost/oakhearted/west.png"
+      "structures/fabled_roots/fabled_roots/outpost/oakhearted/previews/north.png",
+      "structures/fabled_roots/fabled_roots/outpost/oakhearted/previews/east.png",
+      "structures/fabled_roots/fabled_roots/outpost/oakhearted/previews/south.png",
+      "structures/fabled_roots/fabled_roots/outpost/oakhearted/previews/west.png"
     ]
   },
   {
-    "datapack": "fabled_roots",
+    "datapack": "Fabled Roots",
+    "datapackSlug": "fabled_roots",
     "namespace": "fabled_roots",
     "structure": "outpost/palehearted",
     "id": "fabled_roots:outpost/palehearted",
     "blocks": 1149,
     "uniqueBlocks": 12,
-    "url": "../fabled_roots/web/structures/fabled_roots/outpost/palehearted/index.html",
+    "url": "structures/fabled_roots/fabled_roots/outpost/palehearted/index.html",
     "previews": [
-      "../fabled_roots/images/structures/fabled_roots/outpost/palehearted/north.png",
-      "../fabled_roots/images/structures/fabled_roots/outpost/palehearted/east.png",
-      "../fabled_roots/images/structures/fabled_roots/outpost/palehearted/south.png",
-      "../fabled_roots/images/structures/fabled_roots/outpost/palehearted/west.png"
+      "structures/fabled_roots/fabled_roots/outpost/palehearted/previews/north.png",
+      "structures/fabled_roots/fabled_roots/outpost/palehearted/previews/east.png",
+      "structures/fabled_roots/fabled_roots/outpost/palehearted/previews/south.png",
+      "structures/fabled_roots/fabled_roots/outpost/palehearted/previews/west.png"
     ]
   },
   {
-    "datapack": "fabled_roots",
+    "datapack": "Fabled Roots",
+    "datapackSlug": "fabled_roots",
     "namespace": "fabled_roots",
     "structure": "shelter/aetherian",
     "id": "fabled_roots:shelter/aetherian",
     "blocks": 17591,
     "uniqueBlocks": 36,
-    "url": "../fabled_roots/web/structures/fabled_roots/shelter/aetherian/index.html",
+    "url": "structures/fabled_roots/fabled_roots/shelter/aetherian/index.html",
     "previews": [
-      "../fabled_roots/images/structures/fabled_roots/shelter/aetherian/north.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/aetherian/east.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/aetherian/south.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/aetherian/west.png"
+      "structures/fabled_roots/fabled_roots/shelter/aetherian/previews/north.png",
+      "structures/fabled_roots/fabled_roots/shelter/aetherian/previews/east.png",
+      "structures/fabled_roots/fabled_roots/shelter/aetherian/previews/south.png",
+      "structures/fabled_roots/fabled_roots/shelter/aetherian/previews/west.png"
     ]
   },
   {
-    "datapack": "fabled_roots",
+    "datapack": "Fabled Roots",
+    "datapackSlug": "fabled_roots",
     "namespace": "fabled_roots",
     "structure": "shelter/dunesworn",
     "id": "fabled_roots:shelter/dunesworn",
     "blocks": 1326,
     "uniqueBlocks": 16,
-    "url": "../fabled_roots/web/structures/fabled_roots/shelter/dunesworn/index.html",
+    "url": "structures/fabled_roots/fabled_roots/shelter/dunesworn/index.html",
     "previews": [
-      "../fabled_roots/images/structures/fabled_roots/shelter/dunesworn/north.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/dunesworn/east.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/dunesworn/south.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/dunesworn/west.png"
+      "structures/fabled_roots/fabled_roots/shelter/dunesworn/previews/north.png",
+      "structures/fabled_roots/fabled_roots/shelter/dunesworn/previews/east.png",
+      "structures/fabled_roots/fabled_roots/shelter/dunesworn/previews/south.png",
+      "structures/fabled_roots/fabled_roots/shelter/dunesworn/previews/west.png"
     ]
   },
   {
-    "datapack": "fabled_roots",
+    "datapack": "Fabled Roots",
+    "datapackSlug": "fabled_roots",
     "namespace": "fabled_roots",
     "structure": "shelter/endling",
     "id": "fabled_roots:shelter/endling",
     "blocks": 401,
     "uniqueBlocks": 12,
-    "url": "../fabled_roots/web/structures/fabled_roots/shelter/endling/index.html",
+    "url": "structures/fabled_roots/fabled_roots/shelter/endling/index.html",
     "previews": [
-      "../fabled_roots/images/structures/fabled_roots/shelter/endling/north.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/endling/east.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/endling/south.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/endling/west.png"
+      "structures/fabled_roots/fabled_roots/shelter/endling/previews/north.png",
+      "structures/fabled_roots/fabled_roots/shelter/endling/previews/east.png",
+      "structures/fabled_roots/fabled_roots/shelter/endling/previews/south.png",
+      "structures/fabled_roots/fabled_roots/shelter/endling/previews/west.png"
     ]
   },
   {
-    "datapack": "fabled_roots",
+    "datapack": "Fabled Roots",
+    "datapackSlug": "fabled_roots",
     "namespace": "fabled_roots",
     "structure": "shelter/frostborne",
     "id": "fabled_roots:shelter/frostborne",
     "blocks": 2929,
     "uniqueBlocks": 33,
-    "url": "../fabled_roots/web/structures/fabled_roots/shelter/frostborne/index.html",
+    "url": "structures/fabled_roots/fabled_roots/shelter/frostborne/index.html",
     "previews": [
-      "../fabled_roots/images/structures/fabled_roots/shelter/frostborne/north.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/frostborne/east.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/frostborne/south.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/frostborne/west.png"
+      "structures/fabled_roots/fabled_roots/shelter/frostborne/previews/north.png",
+      "structures/fabled_roots/fabled_roots/shelter/frostborne/previews/east.png",
+      "structures/fabled_roots/fabled_roots/shelter/frostborne/previews/south.png",
+      "structures/fabled_roots/fabled_roots/shelter/frostborne/previews/west.png"
     ]
   },
   {
-    "datapack": "fabled_roots",
+    "datapack": "Fabled Roots",
+    "datapackSlug": "fabled_roots",
     "namespace": "fabled_roots",
     "structure": "shelter/moonshroud",
     "id": "fabled_roots:shelter/moonshroud",
     "blocks": 1774,
     "uniqueBlocks": 16,
-    "url": "../fabled_roots/web/structures/fabled_roots/shelter/moonshroud/index.html",
+    "url": "structures/fabled_roots/fabled_roots/shelter/moonshroud/index.html",
     "previews": [
-      "../fabled_roots/images/structures/fabled_roots/shelter/moonshroud/north.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/moonshroud/east.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/moonshroud/south.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/moonshroud/west.png"
+      "structures/fabled_roots/fabled_roots/shelter/moonshroud/previews/north.png",
+      "structures/fabled_roots/fabled_roots/shelter/moonshroud/previews/east.png",
+      "structures/fabled_roots/fabled_roots/shelter/moonshroud/previews/south.png",
+      "structures/fabled_roots/fabled_roots/shelter/moonshroud/previews/west.png"
     ]
   },
   {
-    "datapack": "fabled_roots",
+    "datapack": "Fabled Roots",
+    "datapackSlug": "fabled_roots",
     "namespace": "fabled_roots",
     "structure": "shelter/netherian",
     "id": "fabled_roots:shelter/netherian",
     "blocks": 932,
     "uniqueBlocks": 19,
-    "url": "../fabled_roots/web/structures/fabled_roots/shelter/netherian/index.html",
+    "url": "structures/fabled_roots/fabled_roots/shelter/netherian/index.html",
     "previews": [
-      "../fabled_roots/images/structures/fabled_roots/shelter/netherian/north.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/netherian/east.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/netherian/south.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/netherian/west.png"
+      "structures/fabled_roots/fabled_roots/shelter/netherian/previews/north.png",
+      "structures/fabled_roots/fabled_roots/shelter/netherian/previews/east.png",
+      "structures/fabled_roots/fabled_roots/shelter/netherian/previews/south.png",
+      "structures/fabled_roots/fabled_roots/shelter/netherian/previews/west.png"
     ]
   },
   {
-    "datapack": "fabled_roots",
+    "datapack": "Fabled Roots",
+    "datapackSlug": "fabled_roots",
     "namespace": "fabled_roots",
     "structure": "shelter/oakhearted",
     "id": "fabled_roots:shelter/oakhearted",
     "blocks": 1958,
     "uniqueBlocks": 27,
-    "url": "../fabled_roots/web/structures/fabled_roots/shelter/oakhearted/index.html",
+    "url": "structures/fabled_roots/fabled_roots/shelter/oakhearted/index.html",
     "previews": [
-      "../fabled_roots/images/structures/fabled_roots/shelter/oakhearted/north.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/oakhearted/east.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/oakhearted/south.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/oakhearted/west.png"
+      "structures/fabled_roots/fabled_roots/shelter/oakhearted/previews/north.png",
+      "structures/fabled_roots/fabled_roots/shelter/oakhearted/previews/east.png",
+      "structures/fabled_roots/fabled_roots/shelter/oakhearted/previews/south.png",
+      "structures/fabled_roots/fabled_roots/shelter/oakhearted/previews/west.png"
     ]
   },
   {
-    "datapack": "fabled_roots",
+    "datapack": "Fabled Roots",
+    "datapackSlug": "fabled_roots",
     "namespace": "fabled_roots",
     "structure": "shelter/orebringer",
     "id": "fabled_roots:shelter/orebringer",
     "blocks": 5334,
     "uniqueBlocks": 22,
-    "url": "../fabled_roots/web/structures/fabled_roots/shelter/orebringer/index.html",
+    "url": "structures/fabled_roots/fabled_roots/shelter/orebringer/index.html",
     "previews": [
-      "../fabled_roots/images/structures/fabled_roots/shelter/orebringer/north.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/orebringer/east.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/orebringer/south.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/orebringer/west.png"
+      "structures/fabled_roots/fabled_roots/shelter/orebringer/previews/north.png",
+      "structures/fabled_roots/fabled_roots/shelter/orebringer/previews/east.png",
+      "structures/fabled_roots/fabled_roots/shelter/orebringer/previews/south.png",
+      "structures/fabled_roots/fabled_roots/shelter/orebringer/previews/west.png"
     ]
   },
   {
-    "datapack": "fabled_roots",
+    "datapack": "Fabled Roots",
+    "datapackSlug": "fabled_roots",
     "namespace": "fabled_roots",
     "structure": "shelter/palehearted",
     "id": "fabled_roots:shelter/palehearted",
     "blocks": 5884,
     "uniqueBlocks": 29,
-    "url": "../fabled_roots/web/structures/fabled_roots/shelter/palehearted/index.html",
+    "url": "structures/fabled_roots/fabled_roots/shelter/palehearted/index.html",
     "previews": [
-      "../fabled_roots/images/structures/fabled_roots/shelter/palehearted/north.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/palehearted/east.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/palehearted/south.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/palehearted/west.png"
+      "structures/fabled_roots/fabled_roots/shelter/palehearted/previews/north.png",
+      "structures/fabled_roots/fabled_roots/shelter/palehearted/previews/east.png",
+      "structures/fabled_roots/fabled_roots/shelter/palehearted/previews/south.png",
+      "structures/fabled_roots/fabled_roots/shelter/palehearted/previews/west.png"
     ]
   },
   {
-    "datapack": "fabled_roots",
+    "datapack": "Fabled Roots",
+    "datapackSlug": "fabled_roots",
     "namespace": "fabled_roots",
     "structure": "shelter/turtlekin",
     "id": "fabled_roots:shelter/turtlekin",
     "blocks": 756,
     "uniqueBlocks": 20,
-    "url": "../fabled_roots/web/structures/fabled_roots/shelter/turtlekin/index.html",
+    "url": "structures/fabled_roots/fabled_roots/shelter/turtlekin/index.html",
     "previews": [
-      "../fabled_roots/images/structures/fabled_roots/shelter/turtlekin/north.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/turtlekin/east.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/turtlekin/south.png",
-      "../fabled_roots/images/structures/fabled_roots/shelter/turtlekin/west.png"
+      "structures/fabled_roots/fabled_roots/shelter/turtlekin/previews/north.png",
+      "structures/fabled_roots/fabled_roots/shelter/turtlekin/previews/east.png",
+      "structures/fabled_roots/fabled_roots/shelter/turtlekin/previews/south.png",
+      "structures/fabled_roots/fabled_roots/shelter/turtlekin/previews/west.png"
     ]
   },
   {
-    "datapack": "fabled_roots",
-    "namespace": "fabled_roots",
-    "structure": "treasure/aetherian",
-    "id": "fabled_roots:treasure/aetherian",
-    "blocks": 1,
-    "uniqueBlocks": 1,
-    "url": "../fabled_roots/web/structures/fabled_roots/treasure/aetherian/index.html",
-    "previews": [
-      "../fabled_roots/images/structures/fabled_roots/treasure/aetherian/north.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/aetherian/east.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/aetherian/south.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/aetherian/west.png"
-    ]
-  },
-  {
-    "datapack": "fabled_roots",
-    "namespace": "fabled_roots",
-    "structure": "treasure/dunesworn",
-    "id": "fabled_roots:treasure/dunesworn",
-    "blocks": 1,
-    "uniqueBlocks": 1,
-    "url": "../fabled_roots/web/structures/fabled_roots/treasure/dunesworn/index.html",
-    "previews": [
-      "../fabled_roots/images/structures/fabled_roots/treasure/dunesworn/north.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/dunesworn/east.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/dunesworn/south.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/dunesworn/west.png"
-    ]
-  },
-  {
-    "datapack": "fabled_roots",
-    "namespace": "fabled_roots",
-    "structure": "treasure/endling",
-    "id": "fabled_roots:treasure/endling",
-    "blocks": 1,
-    "uniqueBlocks": 1,
-    "url": "../fabled_roots/web/structures/fabled_roots/treasure/endling/index.html",
-    "previews": [
-      "../fabled_roots/images/structures/fabled_roots/treasure/endling/north.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/endling/east.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/endling/south.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/endling/west.png"
-    ]
-  },
-  {
-    "datapack": "fabled_roots",
-    "namespace": "fabled_roots",
-    "structure": "treasure/frostborne",
-    "id": "fabled_roots:treasure/frostborne",
-    "blocks": 1,
-    "uniqueBlocks": 1,
-    "url": "../fabled_roots/web/structures/fabled_roots/treasure/frostborne/index.html",
-    "previews": [
-      "../fabled_roots/images/structures/fabled_roots/treasure/frostborne/north.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/frostborne/east.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/frostborne/south.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/frostborne/west.png"
-    ]
-  },
-  {
-    "datapack": "fabled_roots",
-    "namespace": "fabled_roots",
-    "structure": "treasure/moonshroud",
-    "id": "fabled_roots:treasure/moonshroud",
-    "blocks": 1,
-    "uniqueBlocks": 1,
-    "url": "../fabled_roots/web/structures/fabled_roots/treasure/moonshroud/index.html",
-    "previews": [
-      "../fabled_roots/images/structures/fabled_roots/treasure/moonshroud/north.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/moonshroud/east.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/moonshroud/south.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/moonshroud/west.png"
-    ]
-  },
-  {
-    "datapack": "fabled_roots",
-    "namespace": "fabled_roots",
-    "structure": "treasure/netherian",
-    "id": "fabled_roots:treasure/netherian",
-    "blocks": 1,
-    "uniqueBlocks": 1,
-    "url": "../fabled_roots/web/structures/fabled_roots/treasure/netherian/index.html",
-    "previews": [
-      "../fabled_roots/images/structures/fabled_roots/treasure/netherian/north.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/netherian/east.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/netherian/south.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/netherian/west.png"
-    ]
-  },
-  {
-    "datapack": "fabled_roots",
-    "namespace": "fabled_roots",
-    "structure": "treasure/oakhearted",
-    "id": "fabled_roots:treasure/oakhearted",
-    "blocks": 1,
-    "uniqueBlocks": 1,
-    "url": "../fabled_roots/web/structures/fabled_roots/treasure/oakhearted/index.html",
-    "previews": [
-      "../fabled_roots/images/structures/fabled_roots/treasure/oakhearted/north.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/oakhearted/east.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/oakhearted/south.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/oakhearted/west.png"
-    ]
-  },
-  {
-    "datapack": "fabled_roots",
-    "namespace": "fabled_roots",
-    "structure": "treasure/orebringer",
-    "id": "fabled_roots:treasure/orebringer",
-    "blocks": 1,
-    "uniqueBlocks": 1,
-    "url": "../fabled_roots/web/structures/fabled_roots/treasure/orebringer/index.html",
-    "previews": [
-      "../fabled_roots/images/structures/fabled_roots/treasure/orebringer/north.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/orebringer/east.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/orebringer/south.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/orebringer/west.png"
-    ]
-  },
-  {
-    "datapack": "fabled_roots",
-    "namespace": "fabled_roots",
-    "structure": "treasure/palehearted",
-    "id": "fabled_roots:treasure/palehearted",
-    "blocks": 1,
-    "uniqueBlocks": 1,
-    "url": "../fabled_roots/web/structures/fabled_roots/treasure/palehearted/index.html",
-    "previews": [
-      "../fabled_roots/images/structures/fabled_roots/treasure/palehearted/north.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/palehearted/east.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/palehearted/south.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/palehearted/west.png"
-    ]
-  },
-  {
-    "datapack": "fabled_roots",
-    "namespace": "fabled_roots",
-    "structure": "treasure/turtlekin",
-    "id": "fabled_roots:treasure/turtlekin",
-    "blocks": 1,
-    "uniqueBlocks": 1,
-    "url": "../fabled_roots/web/structures/fabled_roots/treasure/turtlekin/index.html",
-    "previews": [
-      "../fabled_roots/images/structures/fabled_roots/treasure/turtlekin/north.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/turtlekin/east.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/turtlekin/south.png",
-      "../fabled_roots/images/structures/fabled_roots/treasure/turtlekin/west.png"
-    ]
-  },
-  {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "armory",
     "id": "kattersstructures:armory",
     "blocks": 13519,
     "uniqueBlocks": 38,
-    "url": "../katters_structures/web/structures/kattersstructures/armory/index.html",
+    "url": "structures/katters_structures/kattersstructures/armory/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/armory/north.png",
-      "../katters_structures/images/structures/kattersstructures/armory/east.png",
-      "../katters_structures/images/structures/kattersstructures/armory/south.png",
-      "../katters_structures/images/structures/kattersstructures/armory/west.png"
+      "structures/katters_structures/kattersstructures/armory/previews/north.png",
+      "structures/katters_structures/kattersstructures/armory/previews/east.png",
+      "structures/katters_structures/kattersstructures/armory/previews/south.png",
+      "structures/katters_structures/kattersstructures/armory/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "better_vanilla_dungeon",
     "id": "kattersstructures:better_vanilla_dungeon",
     "blocks": 21985,
     "uniqueBlocks": 29,
-    "url": "../katters_structures/web/structures/kattersstructures/better_vanilla_dungeon/index.html",
+    "url": "structures/katters_structures/kattersstructures/better_vanilla_dungeon/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/better_vanilla_dungeon/north.png",
-      "../katters_structures/images/structures/kattersstructures/better_vanilla_dungeon/east.png",
-      "../katters_structures/images/structures/kattersstructures/better_vanilla_dungeon/south.png",
-      "../katters_structures/images/structures/kattersstructures/better_vanilla_dungeon/west.png"
+      "structures/katters_structures/kattersstructures/better_vanilla_dungeon/previews/north.png",
+      "structures/katters_structures/kattersstructures/better_vanilla_dungeon/previews/east.png",
+      "structures/katters_structures/kattersstructures/better_vanilla_dungeon/previews/south.png",
+      "structures/katters_structures/kattersstructures/better_vanilla_dungeon/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "birch_tree",
     "id": "kattersstructures:birch_tree",
     "blocks": 1793,
     "uniqueBlocks": 12,
-    "url": "../katters_structures/web/structures/kattersstructures/birch_tree/index.html",
+    "url": "structures/katters_structures/kattersstructures/birch_tree/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/birch_tree/north.png",
-      "../katters_structures/images/structures/kattersstructures/birch_tree/east.png",
-      "../katters_structures/images/structures/kattersstructures/birch_tree/south.png",
-      "../katters_structures/images/structures/kattersstructures/birch_tree/west.png"
+      "structures/katters_structures/kattersstructures/birch_tree/previews/north.png",
+      "structures/katters_structures/kattersstructures/birch_tree/previews/east.png",
+      "structures/katters_structures/kattersstructures/birch_tree/previews/south.png",
+      "structures/katters_structures/kattersstructures/birch_tree/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "cherry_tree",
     "id": "kattersstructures:cherry_tree",
     "blocks": 1093,
     "uniqueBlocks": 21,
-    "url": "../katters_structures/web/structures/kattersstructures/cherry_tree/index.html",
+    "url": "structures/katters_structures/kattersstructures/cherry_tree/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/cherry_tree/north.png",
-      "../katters_structures/images/structures/kattersstructures/cherry_tree/east.png",
-      "../katters_structures/images/structures/kattersstructures/cherry_tree/south.png",
-      "../katters_structures/images/structures/kattersstructures/cherry_tree/west.png"
+      "structures/katters_structures/kattersstructures/cherry_tree/previews/north.png",
+      "structures/katters_structures/kattersstructures/cherry_tree/previews/east.png",
+      "structures/katters_structures/kattersstructures/cherry_tree/previews/south.png",
+      "structures/katters_structures/kattersstructures/cherry_tree/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "dark_tree",
     "id": "kattersstructures:dark_tree",
     "blocks": 4889,
     "uniqueBlocks": 21,
-    "url": "../katters_structures/web/structures/kattersstructures/dark_tree/index.html",
+    "url": "structures/katters_structures/kattersstructures/dark_tree/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/dark_tree/north.png",
-      "../katters_structures/images/structures/kattersstructures/dark_tree/east.png",
-      "../katters_structures/images/structures/kattersstructures/dark_tree/south.png",
-      "../katters_structures/images/structures/kattersstructures/dark_tree/west.png"
+      "structures/katters_structures/kattersstructures/dark_tree/previews/north.png",
+      "structures/katters_structures/kattersstructures/dark_tree/previews/east.png",
+      "structures/katters_structures/kattersstructures/dark_tree/previews/south.png",
+      "structures/katters_structures/kattersstructures/dark_tree/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "deep_blue_city",
     "id": "kattersstructures:deep_blue_city",
     "blocks": 36593,
     "uniqueBlocks": 86,
-    "url": "../katters_structures/web/structures/kattersstructures/deep_blue_city/index.html",
+    "url": "structures/katters_structures/kattersstructures/deep_blue_city/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/deep_blue_city/north.png",
-      "../katters_structures/images/structures/kattersstructures/deep_blue_city/east.png",
-      "../katters_structures/images/structures/kattersstructures/deep_blue_city/south.png",
-      "../katters_structures/images/structures/kattersstructures/deep_blue_city/west.png"
+      "structures/katters_structures/kattersstructures/deep_blue_city/previews/north.png",
+      "structures/katters_structures/kattersstructures/deep_blue_city/previews/east.png",
+      "structures/katters_structures/kattersstructures/deep_blue_city/previews/south.png",
+      "structures/katters_structures/kattersstructures/deep_blue_city/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "deep_blue_lab_ruin",
     "id": "kattersstructures:deep_blue_lab_ruin",
     "blocks": 563,
     "uniqueBlocks": 15,
-    "url": "../katters_structures/web/structures/kattersstructures/deep_blue_lab_ruin/index.html",
+    "url": "structures/katters_structures/kattersstructures/deep_blue_lab_ruin/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/deep_blue_lab_ruin/north.png",
-      "../katters_structures/images/structures/kattersstructures/deep_blue_lab_ruin/east.png",
-      "../katters_structures/images/structures/kattersstructures/deep_blue_lab_ruin/south.png",
-      "../katters_structures/images/structures/kattersstructures/deep_blue_lab_ruin/west.png"
+      "structures/katters_structures/kattersstructures/deep_blue_lab_ruin/previews/north.png",
+      "structures/katters_structures/kattersstructures/deep_blue_lab_ruin/previews/east.png",
+      "structures/katters_structures/kattersstructures/deep_blue_lab_ruin/previews/south.png",
+      "structures/katters_structures/kattersstructures/deep_blue_lab_ruin/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "deep_blue_labs",
     "id": "kattersstructures:deep_blue_labs",
     "blocks": 381,
     "uniqueBlocks": 19,
-    "url": "../katters_structures/web/structures/kattersstructures/deep_blue_labs/index.html",
+    "url": "structures/katters_structures/kattersstructures/deep_blue_labs/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/deep_blue_labs/north.png",
-      "../katters_structures/images/structures/kattersstructures/deep_blue_labs/east.png",
-      "../katters_structures/images/structures/kattersstructures/deep_blue_labs/south.png",
-      "../katters_structures/images/structures/kattersstructures/deep_blue_labs/west.png"
+      "structures/katters_structures/kattersstructures/deep_blue_labs/previews/north.png",
+      "structures/katters_structures/kattersstructures/deep_blue_labs/previews/east.png",
+      "structures/katters_structures/kattersstructures/deep_blue_labs/previews/south.png",
+      "structures/katters_structures/kattersstructures/deep_blue_labs/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "desert_dungeon",
     "id": "kattersstructures:desert_dungeon",
     "blocks": 48748,
     "uniqueBlocks": 32,
-    "url": "../katters_structures/web/structures/kattersstructures/desert_dungeon/index.html",
+    "url": "structures/katters_structures/kattersstructures/desert_dungeon/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/desert_dungeon/north.png",
-      "../katters_structures/images/structures/kattersstructures/desert_dungeon/east.png",
-      "../katters_structures/images/structures/kattersstructures/desert_dungeon/south.png",
-      "../katters_structures/images/structures/kattersstructures/desert_dungeon/west.png"
+      "structures/katters_structures/kattersstructures/desert_dungeon/previews/north.png",
+      "structures/katters_structures/kattersstructures/desert_dungeon/previews/east.png",
+      "structures/katters_structures/kattersstructures/desert_dungeon/previews/south.png",
+      "structures/katters_structures/kattersstructures/desert_dungeon/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "far_watch",
     "id": "kattersstructures:far_watch",
     "blocks": 319572,
     "uniqueBlocks": 55,
-    "url": "../katters_structures/web/structures/kattersstructures/far_watch/index.html",
+    "url": "structures/katters_structures/kattersstructures/far_watch/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/far_watch/north.png",
-      "../katters_structures/images/structures/kattersstructures/far_watch/east.png",
-      "../katters_structures/images/structures/kattersstructures/far_watch/south.png",
-      "../katters_structures/images/structures/kattersstructures/far_watch/west.png"
+      "structures/katters_structures/kattersstructures/far_watch/previews/north.png",
+      "structures/katters_structures/kattersstructures/far_watch/previews/east.png",
+      "structures/katters_structures/kattersstructures/far_watch/previews/south.png",
+      "structures/katters_structures/kattersstructures/far_watch/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "fossils",
     "id": "kattersstructures:fossils",
     "blocks": 381,
     "uniqueBlocks": 4,
-    "url": "../katters_structures/web/structures/kattersstructures/fossils/index.html",
+    "url": "structures/katters_structures/kattersstructures/fossils/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/fossils/north.png",
-      "../katters_structures/images/structures/kattersstructures/fossils/east.png",
-      "../katters_structures/images/structures/kattersstructures/fossils/south.png",
-      "../katters_structures/images/structures/kattersstructures/fossils/west.png"
+      "structures/katters_structures/kattersstructures/fossils/previews/north.png",
+      "structures/katters_structures/kattersstructures/fossils/previews/east.png",
+      "structures/katters_structures/kattersstructures/fossils/previews/south.png",
+      "structures/katters_structures/kattersstructures/fossils/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "graveyard",
     "id": "kattersstructures:graveyard",
     "blocks": 4369,
     "uniqueBlocks": 69,
-    "url": "../katters_structures/web/structures/kattersstructures/graveyard/index.html",
+    "url": "structures/katters_structures/kattersstructures/graveyard/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/graveyard/north.png",
-      "../katters_structures/images/structures/kattersstructures/graveyard/east.png",
-      "../katters_structures/images/structures/kattersstructures/graveyard/south.png",
-      "../katters_structures/images/structures/kattersstructures/graveyard/west.png"
+      "structures/katters_structures/kattersstructures/graveyard/previews/north.png",
+      "structures/katters_structures/kattersstructures/graveyard/previews/east.png",
+      "structures/katters_structures/kattersstructures/graveyard/previews/south.png",
+      "structures/katters_structures/kattersstructures/graveyard/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "magic_tower",
     "id": "kattersstructures:magic_tower",
     "blocks": 18949,
     "uniqueBlocks": 53,
-    "url": "../katters_structures/web/structures/kattersstructures/magic_tower/index.html",
+    "url": "structures/katters_structures/kattersstructures/magic_tower/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/magic_tower/north.png",
-      "../katters_structures/images/structures/kattersstructures/magic_tower/east.png",
-      "../katters_structures/images/structures/kattersstructures/magic_tower/south.png",
-      "../katters_structures/images/structures/kattersstructures/magic_tower/west.png"
+      "structures/katters_structures/kattersstructures/magic_tower/previews/north.png",
+      "structures/katters_structures/kattersstructures/magic_tower/previews/east.png",
+      "structures/katters_structures/kattersstructures/magic_tower/previews/south.png",
+      "structures/katters_structures/kattersstructures/magic_tower/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "mini_dungeon_rugged_shack",
     "id": "kattersstructures:mini_dungeon_rugged_shack",
     "blocks": 320,
     "uniqueBlocks": 26,
-    "url": "../katters_structures/web/structures/kattersstructures/mini_dungeon_rugged_shack/index.html",
+    "url": "structures/katters_structures/kattersstructures/mini_dungeon_rugged_shack/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/mini_dungeon_rugged_shack/north.png",
-      "../katters_structures/images/structures/kattersstructures/mini_dungeon_rugged_shack/east.png",
-      "../katters_structures/images/structures/kattersstructures/mini_dungeon_rugged_shack/south.png",
-      "../katters_structures/images/structures/kattersstructures/mini_dungeon_rugged_shack/west.png"
+      "structures/katters_structures/kattersstructures/mini_dungeon_rugged_shack/previews/north.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_rugged_shack/previews/east.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_rugged_shack/previews/south.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_rugged_shack/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "mini_dungeon_ruin",
     "id": "kattersstructures:mini_dungeon_ruin",
     "blocks": 96,
     "uniqueBlocks": 9,
-    "url": "../katters_structures/web/structures/kattersstructures/mini_dungeon_ruin/index.html",
+    "url": "structures/katters_structures/kattersstructures/mini_dungeon_ruin/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/mini_dungeon_ruin/north.png",
-      "../katters_structures/images/structures/kattersstructures/mini_dungeon_ruin/east.png",
-      "../katters_structures/images/structures/kattersstructures/mini_dungeon_ruin/south.png",
-      "../katters_structures/images/structures/kattersstructures/mini_dungeon_ruin/west.png"
+      "structures/katters_structures/kattersstructures/mini_dungeon_ruin/previews/north.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_ruin/previews/east.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_ruin/previews/south.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_ruin/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "mini_dungeon_stone",
     "id": "kattersstructures:mini_dungeon_stone",
     "blocks": 386,
     "uniqueBlocks": 10,
-    "url": "../katters_structures/web/structures/kattersstructures/mini_dungeon_stone/index.html",
+    "url": "structures/katters_structures/kattersstructures/mini_dungeon_stone/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/mini_dungeon_stone/north.png",
-      "../katters_structures/images/structures/kattersstructures/mini_dungeon_stone/east.png",
-      "../katters_structures/images/structures/kattersstructures/mini_dungeon_stone/south.png",
-      "../katters_structures/images/structures/kattersstructures/mini_dungeon_stone/west.png"
+      "structures/katters_structures/kattersstructures/mini_dungeon_stone/previews/north.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_stone/previews/east.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_stone/previews/south.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_stone/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "mini_dungeon_tuff",
     "id": "kattersstructures:mini_dungeon_tuff",
     "blocks": 143,
     "uniqueBlocks": 15,
-    "url": "../katters_structures/web/structures/kattersstructures/mini_dungeon_tuff/index.html",
+    "url": "structures/katters_structures/kattersstructures/mini_dungeon_tuff/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/mini_dungeon_tuff/north.png",
-      "../katters_structures/images/structures/kattersstructures/mini_dungeon_tuff/east.png",
-      "../katters_structures/images/structures/kattersstructures/mini_dungeon_tuff/south.png",
-      "../katters_structures/images/structures/kattersstructures/mini_dungeon_tuff/west.png"
+      "structures/katters_structures/kattersstructures/mini_dungeon_tuff/previews/north.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_tuff/previews/east.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_tuff/previews/south.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_tuff/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "ocean_ships",
     "id": "kattersstructures:ocean_ships",
     "blocks": 3093,
     "uniqueBlocks": 30,
-    "url": "../katters_structures/web/structures/kattersstructures/ocean_ships/index.html",
+    "url": "structures/katters_structures/kattersstructures/ocean_ships/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/ocean_ships/north.png",
-      "../katters_structures/images/structures/kattersstructures/ocean_ships/east.png",
-      "../katters_structures/images/structures/kattersstructures/ocean_ships/south.png",
-      "../katters_structures/images/structures/kattersstructures/ocean_ships/west.png"
+      "structures/katters_structures/kattersstructures/ocean_ships/previews/north.png",
+      "structures/katters_structures/kattersstructures/ocean_ships/previews/east.png",
+      "structures/katters_structures/kattersstructures/ocean_ships/previews/south.png",
+      "structures/katters_structures/kattersstructures/ocean_ships/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "pillager_village",
     "id": "kattersstructures:pillager_village",
     "blocks": 7335,
     "uniqueBlocks": 50,
-    "url": "../katters_structures/web/structures/kattersstructures/pillager_village/index.html",
+    "url": "structures/katters_structures/kattersstructures/pillager_village/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/pillager_village/north.png",
-      "../katters_structures/images/structures/kattersstructures/pillager_village/east.png",
-      "../katters_structures/images/structures/kattersstructures/pillager_village/south.png",
-      "../katters_structures/images/structures/kattersstructures/pillager_village/west.png"
+      "structures/katters_structures/kattersstructures/pillager_village/previews/north.png",
+      "structures/katters_structures/kattersstructures/pillager_village/previews/east.png",
+      "structures/katters_structures/kattersstructures/pillager_village/previews/south.png",
+      "structures/katters_structures/kattersstructures/pillager_village/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "red_coral",
     "id": "kattersstructures:red_coral",
     "blocks": 166,
     "uniqueBlocks": 5,
-    "url": "../katters_structures/web/structures/kattersstructures/red_coral/index.html",
+    "url": "structures/katters_structures/kattersstructures/red_coral/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/red_coral/north.png",
-      "../katters_structures/images/structures/kattersstructures/red_coral/east.png",
-      "../katters_structures/images/structures/kattersstructures/red_coral/south.png",
-      "../katters_structures/images/structures/kattersstructures/red_coral/west.png"
+      "structures/katters_structures/kattersstructures/red_coral/previews/north.png",
+      "structures/katters_structures/kattersstructures/red_coral/previews/east.png",
+      "structures/katters_structures/kattersstructures/red_coral/previews/south.png",
+      "structures/katters_structures/kattersstructures/red_coral/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "ruined_village",
     "id": "kattersstructures:ruined_village",
     "blocks": 8877,
     "uniqueBlocks": 43,
-    "url": "../katters_structures/web/structures/kattersstructures/ruined_village/index.html",
+    "url": "structures/katters_structures/kattersstructures/ruined_village/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/ruined_village/north.png",
-      "../katters_structures/images/structures/kattersstructures/ruined_village/east.png",
-      "../katters_structures/images/structures/kattersstructures/ruined_village/south.png",
-      "../katters_structures/images/structures/kattersstructures/ruined_village/west.png"
+      "structures/katters_structures/kattersstructures/ruined_village/previews/north.png",
+      "structures/katters_structures/kattersstructures/ruined_village/previews/east.png",
+      "structures/katters_structures/kattersstructures/ruined_village/previews/south.png",
+      "structures/katters_structures/kattersstructures/ruined_village/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "shroom_cave",
     "id": "kattersstructures:shroom_cave",
     "blocks": 4211,
     "uniqueBlocks": 6,
-    "url": "../katters_structures/web/structures/kattersstructures/shroom_cave/index.html",
+    "url": "structures/katters_structures/kattersstructures/shroom_cave/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/shroom_cave/north.png",
-      "../katters_structures/images/structures/kattersstructures/shroom_cave/east.png",
-      "../katters_structures/images/structures/kattersstructures/shroom_cave/south.png",
-      "../katters_structures/images/structures/kattersstructures/shroom_cave/west.png"
+      "structures/katters_structures/kattersstructures/shroom_cave/previews/north.png",
+      "structures/katters_structures/kattersstructures/shroom_cave/previews/east.png",
+      "structures/katters_structures/kattersstructures/shroom_cave/previews/south.png",
+      "structures/katters_structures/kattersstructures/shroom_cave/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "sky_decor",
     "id": "kattersstructures:sky_decor",
     "blocks": 540,
     "uniqueBlocks": 14,
-    "url": "../katters_structures/web/structures/kattersstructures/sky_decor/index.html",
+    "url": "structures/katters_structures/kattersstructures/sky_decor/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/sky_decor/north.png",
-      "../katters_structures/images/structures/kattersstructures/sky_decor/east.png",
-      "../katters_structures/images/structures/kattersstructures/sky_decor/south.png",
-      "../katters_structures/images/structures/kattersstructures/sky_decor/west.png"
+      "structures/katters_structures/kattersstructures/sky_decor/previews/north.png",
+      "structures/katters_structures/kattersstructures/sky_decor/previews/east.png",
+      "structures/katters_structures/kattersstructures/sky_decor/previews/south.png",
+      "structures/katters_structures/kattersstructures/sky_decor/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "sky_dungeon",
     "id": "kattersstructures:sky_dungeon",
     "blocks": 30451,
     "uniqueBlocks": 66,
-    "url": "../katters_structures/web/structures/kattersstructures/sky_dungeon/index.html",
+    "url": "structures/katters_structures/kattersstructures/sky_dungeon/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/sky_dungeon/north.png",
-      "../katters_structures/images/structures/kattersstructures/sky_dungeon/east.png",
-      "../katters_structures/images/structures/kattersstructures/sky_dungeon/south.png",
-      "../katters_structures/images/structures/kattersstructures/sky_dungeon/west.png"
+      "structures/katters_structures/kattersstructures/sky_dungeon/previews/north.png",
+      "structures/katters_structures/kattersstructures/sky_dungeon/previews/east.png",
+      "structures/katters_structures/kattersstructures/sky_dungeon/previews/south.png",
+      "structures/katters_structures/kattersstructures/sky_dungeon/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "skyhold",
     "id": "kattersstructures:skyhold",
     "blocks": 248841,
     "uniqueBlocks": 84,
-    "url": "../katters_structures/web/structures/kattersstructures/skyhold/index.html",
+    "url": "structures/katters_structures/kattersstructures/skyhold/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/skyhold/north.png",
-      "../katters_structures/images/structures/kattersstructures/skyhold/east.png",
-      "../katters_structures/images/structures/kattersstructures/skyhold/south.png",
-      "../katters_structures/images/structures/kattersstructures/skyhold/west.png"
+      "structures/katters_structures/kattersstructures/skyhold/previews/north.png",
+      "structures/katters_structures/kattersstructures/skyhold/previews/east.png",
+      "structures/katters_structures/kattersstructures/skyhold/previews/south.png",
+      "structures/katters_structures/kattersstructures/skyhold/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "skyrtle",
     "id": "kattersstructures:skyrtle",
     "blocks": 35865,
     "uniqueBlocks": 28,
-    "url": "../katters_structures/web/structures/kattersstructures/skyrtle/index.html",
+    "url": "structures/katters_structures/kattersstructures/skyrtle/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/skyrtle/north.png",
-      "../katters_structures/images/structures/kattersstructures/skyrtle/east.png",
-      "../katters_structures/images/structures/kattersstructures/skyrtle/south.png",
-      "../katters_structures/images/structures/kattersstructures/skyrtle/west.png"
+      "structures/katters_structures/kattersstructures/skyrtle/previews/north.png",
+      "structures/katters_structures/kattersstructures/skyrtle/previews/east.png",
+      "structures/katters_structures/kattersstructures/skyrtle/previews/south.png",
+      "structures/katters_structures/kattersstructures/skyrtle/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "spider_den",
     "id": "kattersstructures:spider_den",
     "blocks": 16320,
     "uniqueBlocks": 7,
-    "url": "../katters_structures/web/structures/kattersstructures/spider_den/index.html",
+    "url": "structures/katters_structures/kattersstructures/spider_den/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/spider_den/north.png",
-      "../katters_structures/images/structures/kattersstructures/spider_den/east.png",
-      "../katters_structures/images/structures/kattersstructures/spider_den/south.png",
-      "../katters_structures/images/structures/kattersstructures/spider_den/west.png"
+      "structures/katters_structures/kattersstructures/spider_den/previews/north.png",
+      "structures/katters_structures/kattersstructures/spider_den/previews/east.png",
+      "structures/katters_structures/kattersstructures/spider_den/previews/south.png",
+      "structures/katters_structures/kattersstructures/spider_den/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "trader_outposts",
     "id": "kattersstructures:trader_outposts",
     "blocks": 830,
     "uniqueBlocks": 40,
-    "url": "../katters_structures/web/structures/kattersstructures/trader_outposts/index.html",
+    "url": "structures/katters_structures/kattersstructures/trader_outposts/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/trader_outposts/north.png",
-      "../katters_structures/images/structures/kattersstructures/trader_outposts/east.png",
-      "../katters_structures/images/structures/kattersstructures/trader_outposts/south.png",
-      "../katters_structures/images/structures/kattersstructures/trader_outposts/west.png"
+      "structures/katters_structures/kattersstructures/trader_outposts/previews/north.png",
+      "structures/katters_structures/kattersstructures/trader_outposts/previews/east.png",
+      "structures/katters_structures/kattersstructures/trader_outposts/previews/south.png",
+      "structures/katters_structures/kattersstructures/trader_outposts/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "village_birch",
     "id": "kattersstructures:village_birch",
     "blocks": 18207,
     "uniqueBlocks": 50,
-    "url": "../katters_structures/web/structures/kattersstructures/village_birch/index.html",
+    "url": "structures/katters_structures/kattersstructures/village_birch/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/village_birch/north.png",
-      "../katters_structures/images/structures/kattersstructures/village_birch/east.png",
-      "../katters_structures/images/structures/kattersstructures/village_birch/south.png",
-      "../katters_structures/images/structures/kattersstructures/village_birch/west.png"
+      "structures/katters_structures/kattersstructures/village_birch/previews/north.png",
+      "structures/katters_structures/kattersstructures/village_birch/previews/east.png",
+      "structures/katters_structures/kattersstructures/village_birch/previews/south.png",
+      "structures/katters_structures/kattersstructures/village_birch/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "village_cherry",
     "id": "kattersstructures:village_cherry",
     "blocks": 1829,
     "uniqueBlocks": 42,
-    "url": "../katters_structures/web/structures/kattersstructures/village_cherry/index.html",
+    "url": "structures/katters_structures/kattersstructures/village_cherry/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/village_cherry/north.png",
-      "../katters_structures/images/structures/kattersstructures/village_cherry/east.png",
-      "../katters_structures/images/structures/kattersstructures/village_cherry/south.png",
-      "../katters_structures/images/structures/kattersstructures/village_cherry/west.png"
+      "structures/katters_structures/kattersstructures/village_cherry/previews/north.png",
+      "structures/katters_structures/kattersstructures/village_cherry/previews/east.png",
+      "structures/katters_structures/kattersstructures/village_cherry/previews/south.png",
+      "structures/katters_structures/kattersstructures/village_cherry/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "village_jungle",
     "id": "kattersstructures:village_jungle",
     "blocks": 16980,
     "uniqueBlocks": 60,
-    "url": "../katters_structures/web/structures/kattersstructures/village_jungle/index.html",
+    "url": "structures/katters_structures/kattersstructures/village_jungle/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/village_jungle/north.png",
-      "../katters_structures/images/structures/kattersstructures/village_jungle/east.png",
-      "../katters_structures/images/structures/kattersstructures/village_jungle/south.png",
-      "../katters_structures/images/structures/kattersstructures/village_jungle/west.png"
+      "structures/katters_structures/kattersstructures/village_jungle/previews/north.png",
+      "structures/katters_structures/kattersstructures/village_jungle/previews/east.png",
+      "structures/katters_structures/kattersstructures/village_jungle/previews/south.png",
+      "structures/katters_structures/kattersstructures/village_jungle/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "village_mesa",
     "id": "kattersstructures:village_mesa",
     "blocks": 8485,
     "uniqueBlocks": 101,
-    "url": "../katters_structures/web/structures/kattersstructures/village_mesa/index.html",
+    "url": "structures/katters_structures/kattersstructures/village_mesa/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/village_mesa/north.png",
-      "../katters_structures/images/structures/kattersstructures/village_mesa/east.png",
-      "../katters_structures/images/structures/kattersstructures/village_mesa/south.png",
-      "../katters_structures/images/structures/kattersstructures/village_mesa/west.png"
+      "structures/katters_structures/kattersstructures/village_mesa/previews/north.png",
+      "structures/katters_structures/kattersstructures/village_mesa/previews/east.png",
+      "structures/katters_structures/kattersstructures/village_mesa/previews/south.png",
+      "structures/katters_structures/kattersstructures/village_mesa/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "village_ocean",
     "id": "kattersstructures:village_ocean",
     "blocks": 5435,
     "uniqueBlocks": 108,
-    "url": "../katters_structures/web/structures/kattersstructures/village_ocean/index.html",
+    "url": "structures/katters_structures/kattersstructures/village_ocean/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/village_ocean/north.png",
-      "../katters_structures/images/structures/kattersstructures/village_ocean/east.png",
-      "../katters_structures/images/structures/kattersstructures/village_ocean/south.png",
-      "../katters_structures/images/structures/kattersstructures/village_ocean/west.png"
+      "structures/katters_structures/kattersstructures/village_ocean/previews/north.png",
+      "structures/katters_structures/kattersstructures/village_ocean/previews/east.png",
+      "structures/katters_structures/kattersstructures/village_ocean/previews/south.png",
+      "structures/katters_structures/kattersstructures/village_ocean/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "village_sky",
     "id": "kattersstructures:village_sky",
     "blocks": 9670,
     "uniqueBlocks": 35,
-    "url": "../katters_structures/web/structures/kattersstructures/village_sky/index.html",
+    "url": "structures/katters_structures/kattersstructures/village_sky/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/village_sky/north.png",
-      "../katters_structures/images/structures/kattersstructures/village_sky/east.png",
-      "../katters_structures/images/structures/kattersstructures/village_sky/south.png",
-      "../katters_structures/images/structures/kattersstructures/village_sky/west.png"
+      "structures/katters_structures/kattersstructures/village_sky/previews/north.png",
+      "structures/katters_structures/kattersstructures/village_sky/previews/east.png",
+      "structures/katters_structures/kattersstructures/village_sky/previews/south.png",
+      "structures/katters_structures/kattersstructures/village_sky/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "village_swamp",
     "id": "kattersstructures:village_swamp",
     "blocks": 13609,
     "uniqueBlocks": 83,
-    "url": "../katters_structures/web/structures/kattersstructures/village_swamp/index.html",
+    "url": "structures/katters_structures/kattersstructures/village_swamp/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/village_swamp/north.png",
-      "../katters_structures/images/structures/kattersstructures/village_swamp/east.png",
-      "../katters_structures/images/structures/kattersstructures/village_swamp/south.png",
-      "../katters_structures/images/structures/kattersstructures/village_swamp/west.png"
+      "structures/katters_structures/kattersstructures/village_swamp/previews/north.png",
+      "structures/katters_structures/kattersstructures/village_swamp/previews/east.png",
+      "structures/katters_structures/kattersstructures/village_swamp/previews/south.png",
+      "structures/katters_structures/kattersstructures/village_swamp/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "village_underground",
     "id": "kattersstructures:village_underground",
     "blocks": 10398,
     "uniqueBlocks": 42,
-    "url": "../katters_structures/web/structures/kattersstructures/village_underground/index.html",
+    "url": "structures/katters_structures/kattersstructures/village_underground/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/village_underground/north.png",
-      "../katters_structures/images/structures/kattersstructures/village_underground/east.png",
-      "../katters_structures/images/structures/kattersstructures/village_underground/south.png",
-      "../katters_structures/images/structures/kattersstructures/village_underground/west.png"
+      "structures/katters_structures/kattersstructures/village_underground/previews/north.png",
+      "structures/katters_structures/kattersstructures/village_underground/previews/east.png",
+      "structures/katters_structures/kattersstructures/village_underground/previews/south.png",
+      "structures/katters_structures/kattersstructures/village_underground/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "villager_desert",
     "id": "kattersstructures:villager_desert",
     "blocks": 101,
     "uniqueBlocks": 8,
-    "url": "../katters_structures/web/structures/kattersstructures/villager_desert/index.html",
+    "url": "structures/katters_structures/kattersstructures/villager_desert/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/villager_desert/north.png",
-      "../katters_structures/images/structures/kattersstructures/villager_desert/east.png",
-      "../katters_structures/images/structures/kattersstructures/villager_desert/south.png",
-      "../katters_structures/images/structures/kattersstructures/villager_desert/west.png"
+      "structures/katters_structures/kattersstructures/villager_desert/previews/north.png",
+      "structures/katters_structures/kattersstructures/villager_desert/previews/east.png",
+      "structures/katters_structures/kattersstructures/villager_desert/previews/south.png",
+      "structures/katters_structures/kattersstructures/villager_desert/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "villager_mountain",
     "id": "kattersstructures:villager_mountain",
     "blocks": 182,
     "uniqueBlocks": 10,
-    "url": "../katters_structures/web/structures/kattersstructures/villager_mountain/index.html",
+    "url": "structures/katters_structures/kattersstructures/villager_mountain/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/villager_mountain/north.png",
-      "../katters_structures/images/structures/kattersstructures/villager_mountain/east.png",
-      "../katters_structures/images/structures/kattersstructures/villager_mountain/south.png",
-      "../katters_structures/images/structures/kattersstructures/villager_mountain/west.png"
+      "structures/katters_structures/kattersstructures/villager_mountain/previews/north.png",
+      "structures/katters_structures/kattersstructures/villager_mountain/previews/east.png",
+      "structures/katters_structures/kattersstructures/villager_mountain/previews/south.png",
+      "structures/katters_structures/kattersstructures/villager_mountain/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "villager_ocean",
     "id": "kattersstructures:villager_ocean",
     "blocks": 102,
     "uniqueBlocks": 9,
-    "url": "../katters_structures/web/structures/kattersstructures/villager_ocean/index.html",
+    "url": "structures/katters_structures/kattersstructures/villager_ocean/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/villager_ocean/north.png",
-      "../katters_structures/images/structures/kattersstructures/villager_ocean/east.png",
-      "../katters_structures/images/structures/kattersstructures/villager_ocean/south.png",
-      "../katters_structures/images/structures/kattersstructures/villager_ocean/west.png"
+      "structures/katters_structures/kattersstructures/villager_ocean/previews/north.png",
+      "structures/katters_structures/kattersstructures/villager_ocean/previews/east.png",
+      "structures/katters_structures/kattersstructures/villager_ocean/previews/south.png",
+      "structures/katters_structures/kattersstructures/villager_ocean/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "windmill",
     "id": "kattersstructures:windmill",
     "blocks": 8006,
     "uniqueBlocks": 76,
-    "url": "../katters_structures/web/structures/kattersstructures/windmill/index.html",
+    "url": "structures/katters_structures/kattersstructures/windmill/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/windmill/north.png",
-      "../katters_structures/images/structures/kattersstructures/windmill/east.png",
-      "../katters_structures/images/structures/kattersstructures/windmill/south.png",
-      "../katters_structures/images/structures/kattersstructures/windmill/west.png"
+      "structures/katters_structures/kattersstructures/windmill/previews/north.png",
+      "structures/katters_structures/kattersstructures/windmill/previews/east.png",
+      "structures/katters_structures/kattersstructures/windmill/previews/south.png",
+      "structures/katters_structures/kattersstructures/windmill/previews/west.png"
     ]
   },
   {
-    "datapack": "katters_structures",
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
     "namespace": "kattersstructures",
     "structure": "witch_circle",
     "id": "kattersstructures:witch_circle",
     "blocks": 939,
     "uniqueBlocks": 15,
-    "url": "../katters_structures/web/structures/kattersstructures/witch_circle/index.html",
+    "url": "structures/katters_structures/kattersstructures/witch_circle/index.html",
     "previews": [
-      "../katters_structures/images/structures/kattersstructures/witch_circle/north.png",
-      "../katters_structures/images/structures/kattersstructures/witch_circle/east.png",
-      "../katters_structures/images/structures/kattersstructures/witch_circle/south.png",
-      "../katters_structures/images/structures/kattersstructures/witch_circle/west.png"
+      "structures/katters_structures/kattersstructures/witch_circle/previews/north.png",
+      "structures/katters_structures/kattersstructures/witch_circle/previews/east.png",
+      "structures/katters_structures/kattersstructures/witch_circle/previews/south.png",
+      "structures/katters_structures/kattersstructures/witch_circle/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_mob_variants",
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
     "structure": "archaeological_site",
     "id": "nice_mob_variants:archaeological_site",
     "blocks": 1580,
     "uniqueBlocks": 20,
-    "url": "../nice_mob_variants/web/structures/nice_mob_variants/archaeological_site/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/archaeological_site/index.html",
     "previews": [
-      "../nice_mob_variants/images/structures/nice_mob_variants/archaeological_site/north.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/archaeological_site/east.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/archaeological_site/south.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/archaeological_site/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/archaeological_site/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/archaeological_site/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/archaeological_site/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/archaeological_site/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_mob_variants",
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
     "structure": "barn",
     "id": "nice_mob_variants:barn",
     "blocks": 628,
     "uniqueBlocks": 39,
-    "url": "../nice_mob_variants/web/structures/nice_mob_variants/barn/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/barn/index.html",
     "previews": [
-      "../nice_mob_variants/images/structures/nice_mob_variants/barn/north.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/barn/east.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/barn/south.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/barn/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/barn/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/barn/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/barn/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/barn/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_mob_variants",
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
     "structure": "coop_bamboo",
     "id": "nice_mob_variants:coop_bamboo",
     "blocks": 296,
     "uniqueBlocks": 18,
-    "url": "../nice_mob_variants/web/structures/nice_mob_variants/coop_bamboo/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/coop_bamboo/index.html",
     "previews": [
-      "../nice_mob_variants/images/structures/nice_mob_variants/coop_bamboo/north.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/coop_bamboo/east.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/coop_bamboo/south.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/coop_bamboo/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/coop_bamboo/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_bamboo/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_bamboo/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_bamboo/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_mob_variants",
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
     "structure": "coop_cold",
     "id": "nice_mob_variants:coop_cold",
     "blocks": 458,
     "uniqueBlocks": 18,
-    "url": "../nice_mob_variants/web/structures/nice_mob_variants/coop_cold/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/coop_cold/index.html",
     "previews": [
-      "../nice_mob_variants/images/structures/nice_mob_variants/coop_cold/north.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/coop_cold/east.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/coop_cold/south.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/coop_cold/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/coop_cold/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_cold/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_cold/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_cold/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_mob_variants",
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
     "structure": "coop_shroom",
     "id": "nice_mob_variants:coop_shroom",
     "blocks": 143,
     "uniqueBlocks": 10,
-    "url": "../nice_mob_variants/web/structures/nice_mob_variants/coop_shroom/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/coop_shroom/index.html",
     "previews": [
-      "../nice_mob_variants/images/structures/nice_mob_variants/coop_shroom/north.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/coop_shroom/east.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/coop_shroom/south.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/coop_shroom/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/coop_shroom/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_shroom/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_shroom/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_shroom/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_mob_variants",
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
     "structure": "coop_wood",
     "id": "nice_mob_variants:coop_wood",
     "blocks": 266,
     "uniqueBlocks": 18,
-    "url": "../nice_mob_variants/web/structures/nice_mob_variants/coop_wood/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/coop_wood/index.html",
     "previews": [
-      "../nice_mob_variants/images/structures/nice_mob_variants/coop_wood/north.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/coop_wood/east.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/coop_wood/south.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/coop_wood/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/coop_wood/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_wood/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_wood/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_wood/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_mob_variants",
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
     "structure": "end_farm",
     "id": "nice_mob_variants:end_farm",
     "blocks": 1954,
     "uniqueBlocks": 19,
-    "url": "../nice_mob_variants/web/structures/nice_mob_variants/end_farm/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/end_farm/index.html",
     "previews": [
-      "../nice_mob_variants/images/structures/nice_mob_variants/end_farm/north.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/end_farm/east.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/end_farm/south.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/end_farm/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/end_farm/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/end_farm/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/end_farm/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/end_farm/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_mob_variants",
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
     "structure": "fallen_mushroom",
     "id": "nice_mob_variants:fallen_mushroom",
     "blocks": 61,
     "uniqueBlocks": 4,
-    "url": "../nice_mob_variants/web/structures/nice_mob_variants/fallen_mushroom/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/index.html",
     "previews": [
-      "../nice_mob_variants/images/structures/nice_mob_variants/fallen_mushroom/north.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/fallen_mushroom/east.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/fallen_mushroom/south.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/fallen_mushroom/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_mob_variants",
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
     "structure": "graveyard",
     "id": "nice_mob_variants:graveyard",
     "blocks": 582,
     "uniqueBlocks": 29,
-    "url": "../nice_mob_variants/web/structures/nice_mob_variants/graveyard/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/graveyard/index.html",
     "previews": [
-      "../nice_mob_variants/images/structures/nice_mob_variants/graveyard/north.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/graveyard/east.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/graveyard/south.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/graveyard/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/graveyard/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/graveyard/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/graveyard/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/graveyard/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_mob_variants",
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
     "structure": "hot_spring",
     "id": "nice_mob_variants:hot_spring",
     "blocks": 98,
     "uniqueBlocks": 8,
-    "url": "../nice_mob_variants/web/structures/nice_mob_variants/hot_spring/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/hot_spring/index.html",
     "previews": [
-      "../nice_mob_variants/images/structures/nice_mob_variants/hot_spring/north.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/hot_spring/east.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/hot_spring/south.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/hot_spring/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_mob_variants",
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
     "structure": "monolith",
     "id": "nice_mob_variants:monolith",
     "blocks": 168,
     "uniqueBlocks": 8,
-    "url": "../nice_mob_variants/web/structures/nice_mob_variants/monolith/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/monolith/index.html",
     "previews": [
-      "../nice_mob_variants/images/structures/nice_mob_variants/monolith/north.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/monolith/east.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/monolith/south.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/monolith/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/monolith/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/monolith/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/monolith/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/monolith/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_mob_variants",
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
     "structure": "nether_well",
     "id": "nice_mob_variants:nether_well",
     "blocks": 40,
     "uniqueBlocks": 6,
-    "url": "../nice_mob_variants/web/structures/nice_mob_variants/nether_well/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/nether_well/index.html",
     "previews": [
-      "../nice_mob_variants/images/structures/nice_mob_variants/nether_well/north.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/nether_well/east.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/nether_well/south.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/nether_well/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_mob_variants",
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
     "structure": "pale_oak_tree",
     "id": "nice_mob_variants:pale_oak_tree",
     "blocks": 78,
     "uniqueBlocks": 4,
-    "url": "../nice_mob_variants/web/structures/nice_mob_variants/pale_oak_tree/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/index.html",
     "previews": [
-      "../nice_mob_variants/images/structures/nice_mob_variants/pale_oak_tree/north.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/pale_oak_tree/east.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/pale_oak_tree/south.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/pale_oak_tree/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_mob_variants",
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
     "structure": "pen_cold",
     "id": "nice_mob_variants:pen_cold",
     "blocks": 160,
     "uniqueBlocks": 17,
-    "url": "../nice_mob_variants/web/structures/nice_mob_variants/pen_cold/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/pen_cold/index.html",
     "previews": [
-      "../nice_mob_variants/images/structures/nice_mob_variants/pen_cold/north.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/pen_cold/east.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/pen_cold/south.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/pen_cold/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/pen_cold/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_cold/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_cold/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_cold/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_mob_variants",
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
     "structure": "pen_jungle",
     "id": "nice_mob_variants:pen_jungle",
     "blocks": 178,
     "uniqueBlocks": 17,
-    "url": "../nice_mob_variants/web/structures/nice_mob_variants/pen_jungle/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/pen_jungle/index.html",
     "previews": [
-      "../nice_mob_variants/images/structures/nice_mob_variants/pen_jungle/north.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/pen_jungle/east.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/pen_jungle/south.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/pen_jungle/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/pen_jungle/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_jungle/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_jungle/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_jungle/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_mob_variants",
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
     "structure": "pen_wild",
     "id": "nice_mob_variants:pen_wild",
     "blocks": 102,
     "uniqueBlocks": 17,
-    "url": "../nice_mob_variants/web/structures/nice_mob_variants/pen_wild/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/pen_wild/index.html",
     "previews": [
-      "../nice_mob_variants/images/structures/nice_mob_variants/pen_wild/north.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/pen_wild/east.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/pen_wild/south.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/pen_wild/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/pen_wild/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_wild/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_wild/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_wild/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_mob_variants",
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
     "structure": "pen_wood",
     "id": "nice_mob_variants:pen_wood",
     "blocks": 218,
     "uniqueBlocks": 17,
-    "url": "../nice_mob_variants/web/structures/nice_mob_variants/pen_wood/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/pen_wood/index.html",
     "previews": [
-      "../nice_mob_variants/images/structures/nice_mob_variants/pen_wood/north.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/pen_wood/east.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/pen_wood/south.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/pen_wood/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/pen_wood/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_wood/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_wood/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_wood/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_mob_variants",
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
     "namespace": "nice_mob_variants",
     "structure": "potato_farm",
     "id": "nice_mob_variants:potato_farm",
     "blocks": 535,
     "uniqueBlocks": 19,
-    "url": "../nice_mob_variants/web/structures/nice_mob_variants/potato_farm/index.html",
+    "url": "structures/nice_mob_variants/nice_mob_variants/potato_farm/index.html",
     "previews": [
-      "../nice_mob_variants/images/structures/nice_mob_variants/potato_farm/north.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/potato_farm/east.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/potato_farm/south.png",
-      "../nice_mob_variants/images/structures/nice_mob_variants/potato_farm/west.png"
+      "structures/nice_mob_variants/nice_mob_variants/potato_farm/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/potato_farm/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/potato_farm/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/potato_farm/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_things",
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
     "namespace": "nice_things",
     "structure": "desert_decorations",
     "id": "nice_things:desert_decorations",
     "blocks": 20,
     "uniqueBlocks": 4,
-    "url": "../nice_things/web/structures/nice_things/desert_decorations/index.html",
+    "url": "structures/nice_things/nice_things/desert_decorations/index.html",
     "previews": [
-      "../nice_things/images/structures/nice_things/desert_decorations/north.png",
-      "../nice_things/images/structures/nice_things/desert_decorations/east.png",
-      "../nice_things/images/structures/nice_things/desert_decorations/south.png",
-      "../nice_things/images/structures/nice_things/desert_decorations/west.png"
+      "structures/nice_things/nice_things/desert_decorations/previews/north.png",
+      "structures/nice_things/nice_things/desert_decorations/previews/east.png",
+      "structures/nice_things/nice_things/desert_decorations/previews/south.png",
+      "structures/nice_things/nice_things/desert_decorations/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_things",
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
     "namespace": "nice_things",
     "structure": "end_ship_crashed",
     "id": "nice_things:end_ship_crashed",
     "blocks": 435,
     "uniqueBlocks": 9,
-    "url": "../nice_things/web/structures/nice_things/end_ship_crashed/index.html",
+    "url": "structures/nice_things/nice_things/end_ship_crashed/index.html",
     "previews": [
-      "../nice_things/images/structures/nice_things/end_ship_crashed/north.png",
-      "../nice_things/images/structures/nice_things/end_ship_crashed/east.png",
-      "../nice_things/images/structures/nice_things/end_ship_crashed/south.png",
-      "../nice_things/images/structures/nice_things/end_ship_crashed/west.png"
+      "structures/nice_things/nice_things/end_ship_crashed/previews/north.png",
+      "structures/nice_things/nice_things/end_ship_crashed/previews/east.png",
+      "structures/nice_things/nice_things/end_ship_crashed/previews/south.png",
+      "structures/nice_things/nice_things/end_ship_crashed/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_things",
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
     "namespace": "nice_things",
     "structure": "end_ship_flying",
     "id": "nice_things:end_ship_flying",
     "blocks": 583,
     "uniqueBlocks": 14,
-    "url": "../nice_things/web/structures/nice_things/end_ship_flying/index.html",
+    "url": "structures/nice_things/nice_things/end_ship_flying/index.html",
     "previews": [
-      "../nice_things/images/structures/nice_things/end_ship_flying/north.png",
-      "../nice_things/images/structures/nice_things/end_ship_flying/east.png",
-      "../nice_things/images/structures/nice_things/end_ship_flying/south.png",
-      "../nice_things/images/structures/nice_things/end_ship_flying/west.png"
+      "structures/nice_things/nice_things/end_ship_flying/previews/north.png",
+      "structures/nice_things/nice_things/end_ship_flying/previews/east.png",
+      "structures/nice_things/nice_things/end_ship_flying/previews/south.png",
+      "structures/nice_things/nice_things/end_ship_flying/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_things",
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
     "namespace": "nice_things",
     "structure": "jungle_decorations",
     "id": "nice_things:jungle_decorations",
     "blocks": 28,
     "uniqueBlocks": 7,
-    "url": "../nice_things/web/structures/nice_things/jungle_decorations/index.html",
+    "url": "structures/nice_things/nice_things/jungle_decorations/index.html",
     "previews": [
-      "../nice_things/images/structures/nice_things/jungle_decorations/north.png",
-      "../nice_things/images/structures/nice_things/jungle_decorations/east.png",
-      "../nice_things/images/structures/nice_things/jungle_decorations/south.png",
-      "../nice_things/images/structures/nice_things/jungle_decorations/west.png"
+      "structures/nice_things/nice_things/jungle_decorations/previews/north.png",
+      "structures/nice_things/nice_things/jungle_decorations/previews/east.png",
+      "structures/nice_things/nice_things/jungle_decorations/previews/south.png",
+      "structures/nice_things/nice_things/jungle_decorations/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_things",
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
     "namespace": "nice_things",
     "structure": "ocean_underground_decorations",
     "id": "nice_things:ocean_underground_decorations",
     "blocks": 30,
     "uniqueBlocks": 4,
-    "url": "../nice_things/web/structures/nice_things/ocean_underground_decorations/index.html",
+    "url": "structures/nice_things/nice_things/ocean_underground_decorations/index.html",
     "previews": [
-      "../nice_things/images/structures/nice_things/ocean_underground_decorations/north.png",
-      "../nice_things/images/structures/nice_things/ocean_underground_decorations/east.png",
-      "../nice_things/images/structures/nice_things/ocean_underground_decorations/south.png",
-      "../nice_things/images/structures/nice_things/ocean_underground_decorations/west.png"
+      "structures/nice_things/nice_things/ocean_underground_decorations/previews/north.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/previews/east.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/previews/south.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_things",
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
     "namespace": "nice_things",
     "structure": "snow_decorations",
     "id": "nice_things:snow_decorations",
     "blocks": 9,
     "uniqueBlocks": 6,
-    "url": "../nice_things/web/structures/nice_things/snow_decorations/index.html",
+    "url": "structures/nice_things/nice_things/snow_decorations/index.html",
     "previews": [
-      "../nice_things/images/structures/nice_things/snow_decorations/north.png",
-      "../nice_things/images/structures/nice_things/snow_decorations/east.png",
-      "../nice_things/images/structures/nice_things/snow_decorations/south.png",
-      "../nice_things/images/structures/nice_things/snow_decorations/west.png"
+      "structures/nice_things/nice_things/snow_decorations/previews/north.png",
+      "structures/nice_things/nice_things/snow_decorations/previews/east.png",
+      "structures/nice_things/nice_things/snow_decorations/previews/south.png",
+      "structures/nice_things/nice_things/snow_decorations/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_things",
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
     "namespace": "nice_things",
     "structure": "taiga_decorations",
     "id": "nice_things:taiga_decorations",
     "blocks": 49,
     "uniqueBlocks": 6,
-    "url": "../nice_things/web/structures/nice_things/taiga_decorations/index.html",
+    "url": "structures/nice_things/nice_things/taiga_decorations/index.html",
     "previews": [
-      "../nice_things/images/structures/nice_things/taiga_decorations/north.png",
-      "../nice_things/images/structures/nice_things/taiga_decorations/east.png",
-      "../nice_things/images/structures/nice_things/taiga_decorations/south.png",
-      "../nice_things/images/structures/nice_things/taiga_decorations/west.png"
+      "structures/nice_things/nice_things/taiga_decorations/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_things",
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
     "namespace": "nice_things",
     "structure": "villager_outpost/desert",
     "id": "nice_things:villager_outpost/desert",
     "blocks": 763,
     "uniqueBlocks": 37,
-    "url": "../nice_things/web/structures/nice_things/villager_outpost/desert/index.html",
+    "url": "structures/nice_things/nice_things/villager_outpost/desert/index.html",
     "previews": [
-      "../nice_things/images/structures/nice_things/villager_outpost/desert/north.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/desert/east.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/desert/south.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/desert/west.png"
+      "structures/nice_things/nice_things/villager_outpost/desert/previews/north.png",
+      "structures/nice_things/nice_things/villager_outpost/desert/previews/east.png",
+      "structures/nice_things/nice_things/villager_outpost/desert/previews/south.png",
+      "structures/nice_things/nice_things/villager_outpost/desert/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_things",
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
     "namespace": "nice_things",
     "structure": "villager_outpost/jungle",
     "id": "nice_things:villager_outpost/jungle",
     "blocks": 1074,
     "uniqueBlocks": 24,
-    "url": "../nice_things/web/structures/nice_things/villager_outpost/jungle/index.html",
+    "url": "structures/nice_things/nice_things/villager_outpost/jungle/index.html",
     "previews": [
-      "../nice_things/images/structures/nice_things/villager_outpost/jungle/north.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/jungle/east.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/jungle/south.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/jungle/west.png"
+      "structures/nice_things/nice_things/villager_outpost/jungle/previews/north.png",
+      "structures/nice_things/nice_things/villager_outpost/jungle/previews/east.png",
+      "structures/nice_things/nice_things/villager_outpost/jungle/previews/south.png",
+      "structures/nice_things/nice_things/villager_outpost/jungle/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_things",
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
     "namespace": "nice_things",
     "structure": "villager_outpost/plains",
     "id": "nice_things:villager_outpost/plains",
     "blocks": 769,
     "uniqueBlocks": 39,
-    "url": "../nice_things/web/structures/nice_things/villager_outpost/plains/index.html",
+    "url": "structures/nice_things/nice_things/villager_outpost/plains/index.html",
     "previews": [
-      "../nice_things/images/structures/nice_things/villager_outpost/plains/north.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/plains/east.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/plains/south.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/plains/west.png"
+      "structures/nice_things/nice_things/villager_outpost/plains/previews/north.png",
+      "structures/nice_things/nice_things/villager_outpost/plains/previews/east.png",
+      "structures/nice_things/nice_things/villager_outpost/plains/previews/south.png",
+      "structures/nice_things/nice_things/villager_outpost/plains/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_things",
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
     "namespace": "nice_things",
     "structure": "villager_outpost/savanna",
     "id": "nice_things:villager_outpost/savanna",
     "blocks": 672,
     "uniqueBlocks": 29,
-    "url": "../nice_things/web/structures/nice_things/villager_outpost/savanna/index.html",
+    "url": "structures/nice_things/nice_things/villager_outpost/savanna/index.html",
     "previews": [
-      "../nice_things/images/structures/nice_things/villager_outpost/savanna/north.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/savanna/east.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/savanna/south.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/savanna/west.png"
+      "structures/nice_things/nice_things/villager_outpost/savanna/previews/north.png",
+      "structures/nice_things/nice_things/villager_outpost/savanna/previews/east.png",
+      "structures/nice_things/nice_things/villager_outpost/savanna/previews/south.png",
+      "structures/nice_things/nice_things/villager_outpost/savanna/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_things",
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
     "namespace": "nice_things",
     "structure": "villager_outpost/snow",
     "id": "nice_things:villager_outpost/snow",
     "blocks": 635,
     "uniqueBlocks": 22,
-    "url": "../nice_things/web/structures/nice_things/villager_outpost/snow/index.html",
+    "url": "structures/nice_things/nice_things/villager_outpost/snow/index.html",
     "previews": [
-      "../nice_things/images/structures/nice_things/villager_outpost/snow/north.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/snow/east.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/snow/south.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/snow/west.png"
+      "structures/nice_things/nice_things/villager_outpost/snow/previews/north.png",
+      "structures/nice_things/nice_things/villager_outpost/snow/previews/east.png",
+      "structures/nice_things/nice_things/villager_outpost/snow/previews/south.png",
+      "structures/nice_things/nice_things/villager_outpost/snow/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_things",
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
     "namespace": "nice_things",
     "structure": "villager_outpost/swamp",
     "id": "nice_things:villager_outpost/swamp",
     "blocks": 1086,
     "uniqueBlocks": 37,
-    "url": "../nice_things/web/structures/nice_things/villager_outpost/swamp/index.html",
+    "url": "structures/nice_things/nice_things/villager_outpost/swamp/index.html",
     "previews": [
-      "../nice_things/images/structures/nice_things/villager_outpost/swamp/north.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/swamp/east.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/swamp/south.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/swamp/west.png"
+      "structures/nice_things/nice_things/villager_outpost/swamp/previews/north.png",
+      "structures/nice_things/nice_things/villager_outpost/swamp/previews/east.png",
+      "structures/nice_things/nice_things/villager_outpost/swamp/previews/south.png",
+      "structures/nice_things/nice_things/villager_outpost/swamp/previews/west.png"
     ]
   },
   {
-    "datapack": "nice_things",
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
     "namespace": "nice_things",
     "structure": "villager_outpost/taiga",
     "id": "nice_things:villager_outpost/taiga",
     "blocks": 777,
     "uniqueBlocks": 40,
-    "url": "../nice_things/web/structures/nice_things/villager_outpost/taiga/index.html",
+    "url": "structures/nice_things/nice_things/villager_outpost/taiga/index.html",
     "previews": [
-      "../nice_things/images/structures/nice_things/villager_outpost/taiga/north.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/taiga/east.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/taiga/south.png",
-      "../nice_things/images/structures/nice_things/villager_outpost/taiga/west.png"
+      "structures/nice_things/nice_things/villager_outpost/taiga/previews/north.png",
+      "structures/nice_things/nice_things/villager_outpost/taiga/previews/east.png",
+      "structures/nice_things/nice_things/villager_outpost/taiga/previews/south.png",
+      "structures/nice_things/nice_things/villager_outpost/taiga/previews/west.png"
     ]
   }
 ]

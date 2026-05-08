@@ -1,0 +1,18 @@
+[
+  {
+    "datapack": "Enchantments Encore",
+    "datapackSlug": "enchantments_encore",
+    "namespace": "enchantencore",
+    "structure": "rise",
+    "id": "enchantencore:rise",
+    "blocks": 7572,
+    "uniqueBlocks": 27,
+    "url": "structures/enchantments_encore/enchantencore/rise/index.html",
+    "previews": [
+      "structures/enchantments_encore/enchantencore/rise/previews/north.png",
+      "structures/enchantments_encore/enchantencore/rise/previews/east.png",
+      "structures/enchantments_encore/enchantencore/rise/previews/south.png",
+      "structures/enchantments_encore/enchantencore/rise/previews/west.png"
+    ]
+  }
+]

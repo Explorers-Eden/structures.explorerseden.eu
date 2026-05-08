@@ -1,0 +1,290 @@
+[
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "archaeological_site",
+    "id": "nice_mob_variants:archaeological_site",
+    "blocks": 1580,
+    "uniqueBlocks": 20,
+    "url": "structures/nice_mob_variants/nice_mob_variants/archaeological_site/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/archaeological_site/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/archaeological_site/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/archaeological_site/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/archaeological_site/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "barn",
+    "id": "nice_mob_variants:barn",
+    "blocks": 628,
+    "uniqueBlocks": 39,
+    "url": "structures/nice_mob_variants/nice_mob_variants/barn/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/barn/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/barn/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/barn/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/barn/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "coop_bamboo",
+    "id": "nice_mob_variants:coop_bamboo",
+    "blocks": 296,
+    "uniqueBlocks": 18,
+    "url": "structures/nice_mob_variants/nice_mob_variants/coop_bamboo/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/coop_bamboo/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_bamboo/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_bamboo/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_bamboo/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "coop_cold",
+    "id": "nice_mob_variants:coop_cold",
+    "blocks": 458,
+    "uniqueBlocks": 18,
+    "url": "structures/nice_mob_variants/nice_mob_variants/coop_cold/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/coop_cold/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_cold/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_cold/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_cold/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "coop_shroom",
+    "id": "nice_mob_variants:coop_shroom",
+    "blocks": 143,
+    "uniqueBlocks": 10,
+    "url": "structures/nice_mob_variants/nice_mob_variants/coop_shroom/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/coop_shroom/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_shroom/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_shroom/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_shroom/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "coop_wood",
+    "id": "nice_mob_variants:coop_wood",
+    "blocks": 266,
+    "uniqueBlocks": 18,
+    "url": "structures/nice_mob_variants/nice_mob_variants/coop_wood/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/coop_wood/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_wood/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_wood/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/coop_wood/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "end_farm",
+    "id": "nice_mob_variants:end_farm",
+    "blocks": 1954,
+    "uniqueBlocks": 19,
+    "url": "structures/nice_mob_variants/nice_mob_variants/end_farm/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/end_farm/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/end_farm/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/end_farm/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/end_farm/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "fallen_mushroom",
+    "id": "nice_mob_variants:fallen_mushroom",
+    "blocks": 61,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/fallen_mushroom/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "graveyard",
+    "id": "nice_mob_variants:graveyard",
+    "blocks": 582,
+    "uniqueBlocks": 29,
+    "url": "structures/nice_mob_variants/nice_mob_variants/graveyard/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/graveyard/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/graveyard/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/graveyard/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/graveyard/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "hot_spring",
+    "id": "nice_mob_variants:hot_spring",
+    "blocks": 98,
+    "uniqueBlocks": 8,
+    "url": "structures/nice_mob_variants/nice_mob_variants/hot_spring/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/hot_spring/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "monolith",
+    "id": "nice_mob_variants:monolith",
+    "blocks": 168,
+    "uniqueBlocks": 8,
+    "url": "structures/nice_mob_variants/nice_mob_variants/monolith/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/monolith/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/monolith/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/monolith/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/monolith/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "nether_well",
+    "id": "nice_mob_variants:nether_well",
+    "blocks": 40,
+    "uniqueBlocks": 6,
+    "url": "structures/nice_mob_variants/nice_mob_variants/nether_well/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/nether_well/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "pale_oak_tree",
+    "id": "nice_mob_variants:pale_oak_tree",
+    "blocks": 78,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/pale_oak_tree/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "pen_cold",
+    "id": "nice_mob_variants:pen_cold",
+    "blocks": 160,
+    "uniqueBlocks": 17,
+    "url": "structures/nice_mob_variants/nice_mob_variants/pen_cold/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/pen_cold/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_cold/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_cold/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_cold/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "pen_jungle",
+    "id": "nice_mob_variants:pen_jungle",
+    "blocks": 178,
+    "uniqueBlocks": 17,
+    "url": "structures/nice_mob_variants/nice_mob_variants/pen_jungle/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/pen_jungle/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_jungle/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_jungle/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_jungle/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "pen_wild",
+    "id": "nice_mob_variants:pen_wild",
+    "blocks": 102,
+    "uniqueBlocks": 17,
+    "url": "structures/nice_mob_variants/nice_mob_variants/pen_wild/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/pen_wild/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_wild/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_wild/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_wild/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "pen_wood",
+    "id": "nice_mob_variants:pen_wood",
+    "blocks": 218,
+    "uniqueBlocks": 17,
+    "url": "structures/nice_mob_variants/nice_mob_variants/pen_wood/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/pen_wood/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_wood/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_wood/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/pen_wood/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Mob Variants",
+    "datapackSlug": "nice_mob_variants",
+    "namespace": "nice_mob_variants",
+    "structure": "potato_farm",
+    "id": "nice_mob_variants:potato_farm",
+    "blocks": 535,
+    "uniqueBlocks": 19,
+    "url": "structures/nice_mob_variants/nice_mob_variants/potato_farm/index.html",
+    "previews": [
+      "structures/nice_mob_variants/nice_mob_variants/potato_farm/previews/north.png",
+      "structures/nice_mob_variants/nice_mob_variants/potato_farm/previews/east.png",
+      "structures/nice_mob_variants/nice_mob_variants/potato_farm/previews/south.png",
+      "structures/nice_mob_variants/nice_mob_variants/potato_farm/previews/west.png"
+    ]
+  }
+]

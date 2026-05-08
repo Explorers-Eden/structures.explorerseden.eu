@@ -1,0 +1,658 @@
+[
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "armory",
+    "id": "kattersstructures:armory",
+    "blocks": 13519,
+    "uniqueBlocks": 38,
+    "url": "structures/katters_structures/kattersstructures/armory/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/armory/previews/north.png",
+      "structures/katters_structures/kattersstructures/armory/previews/east.png",
+      "structures/katters_structures/kattersstructures/armory/previews/south.png",
+      "structures/katters_structures/kattersstructures/armory/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "better_vanilla_dungeon",
+    "id": "kattersstructures:better_vanilla_dungeon",
+    "blocks": 21985,
+    "uniqueBlocks": 29,
+    "url": "structures/katters_structures/kattersstructures/better_vanilla_dungeon/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/better_vanilla_dungeon/previews/north.png",
+      "structures/katters_structures/kattersstructures/better_vanilla_dungeon/previews/east.png",
+      "structures/katters_structures/kattersstructures/better_vanilla_dungeon/previews/south.png",
+      "structures/katters_structures/kattersstructures/better_vanilla_dungeon/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "birch_tree",
+    "id": "kattersstructures:birch_tree",
+    "blocks": 1793,
+    "uniqueBlocks": 12,
+    "url": "structures/katters_structures/kattersstructures/birch_tree/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/birch_tree/previews/north.png",
+      "structures/katters_structures/kattersstructures/birch_tree/previews/east.png",
+      "structures/katters_structures/kattersstructures/birch_tree/previews/south.png",
+      "structures/katters_structures/kattersstructures/birch_tree/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "cherry_tree",
+    "id": "kattersstructures:cherry_tree",
+    "blocks": 1093,
+    "uniqueBlocks": 21,
+    "url": "structures/katters_structures/kattersstructures/cherry_tree/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/cherry_tree/previews/north.png",
+      "structures/katters_structures/kattersstructures/cherry_tree/previews/east.png",
+      "structures/katters_structures/kattersstructures/cherry_tree/previews/south.png",
+      "structures/katters_structures/kattersstructures/cherry_tree/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "dark_tree",
+    "id": "kattersstructures:dark_tree",
+    "blocks": 4889,
+    "uniqueBlocks": 21,
+    "url": "structures/katters_structures/kattersstructures/dark_tree/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/dark_tree/previews/north.png",
+      "structures/katters_structures/kattersstructures/dark_tree/previews/east.png",
+      "structures/katters_structures/kattersstructures/dark_tree/previews/south.png",
+      "structures/katters_structures/kattersstructures/dark_tree/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "deep_blue_city",
+    "id": "kattersstructures:deep_blue_city",
+    "blocks": 36593,
+    "uniqueBlocks": 86,
+    "url": "structures/katters_structures/kattersstructures/deep_blue_city/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/deep_blue_city/previews/north.png",
+      "structures/katters_structures/kattersstructures/deep_blue_city/previews/east.png",
+      "structures/katters_structures/kattersstructures/deep_blue_city/previews/south.png",
+      "structures/katters_structures/kattersstructures/deep_blue_city/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "deep_blue_lab_ruin",
+    "id": "kattersstructures:deep_blue_lab_ruin",
+    "blocks": 563,
+    "uniqueBlocks": 15,
+    "url": "structures/katters_structures/kattersstructures/deep_blue_lab_ruin/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/deep_blue_lab_ruin/previews/north.png",
+      "structures/katters_structures/kattersstructures/deep_blue_lab_ruin/previews/east.png",
+      "structures/katters_structures/kattersstructures/deep_blue_lab_ruin/previews/south.png",
+      "structures/katters_structures/kattersstructures/deep_blue_lab_ruin/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "deep_blue_labs",
+    "id": "kattersstructures:deep_blue_labs",
+    "blocks": 381,
+    "uniqueBlocks": 19,
+    "url": "structures/katters_structures/kattersstructures/deep_blue_labs/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/deep_blue_labs/previews/north.png",
+      "structures/katters_structures/kattersstructures/deep_blue_labs/previews/east.png",
+      "structures/katters_structures/kattersstructures/deep_blue_labs/previews/south.png",
+      "structures/katters_structures/kattersstructures/deep_blue_labs/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "desert_dungeon",
+    "id": "kattersstructures:desert_dungeon",
+    "blocks": 48748,
+    "uniqueBlocks": 32,
+    "url": "structures/katters_structures/kattersstructures/desert_dungeon/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/desert_dungeon/previews/north.png",
+      "structures/katters_structures/kattersstructures/desert_dungeon/previews/east.png",
+      "structures/katters_structures/kattersstructures/desert_dungeon/previews/south.png",
+      "structures/katters_structures/kattersstructures/desert_dungeon/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "far_watch",
+    "id": "kattersstructures:far_watch",
+    "blocks": 319572,
+    "uniqueBlocks": 55,
+    "url": "structures/katters_structures/kattersstructures/far_watch/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/far_watch/previews/north.png",
+      "structures/katters_structures/kattersstructures/far_watch/previews/east.png",
+      "structures/katters_structures/kattersstructures/far_watch/previews/south.png",
+      "structures/katters_structures/kattersstructures/far_watch/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "fossils",
+    "id": "kattersstructures:fossils",
+    "blocks": 381,
+    "uniqueBlocks": 4,
+    "url": "structures/katters_structures/kattersstructures/fossils/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/fossils/previews/north.png",
+      "structures/katters_structures/kattersstructures/fossils/previews/east.png",
+      "structures/katters_structures/kattersstructures/fossils/previews/south.png",
+      "structures/katters_structures/kattersstructures/fossils/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "graveyard",
+    "id": "kattersstructures:graveyard",
+    "blocks": 4369,
+    "uniqueBlocks": 69,
+    "url": "structures/katters_structures/kattersstructures/graveyard/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/graveyard/previews/north.png",
+      "structures/katters_structures/kattersstructures/graveyard/previews/east.png",
+      "structures/katters_structures/kattersstructures/graveyard/previews/south.png",
+      "structures/katters_structures/kattersstructures/graveyard/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "magic_tower",
+    "id": "kattersstructures:magic_tower",
+    "blocks": 18949,
+    "uniqueBlocks": 53,
+    "url": "structures/katters_structures/kattersstructures/magic_tower/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/magic_tower/previews/north.png",
+      "structures/katters_structures/kattersstructures/magic_tower/previews/east.png",
+      "structures/katters_structures/kattersstructures/magic_tower/previews/south.png",
+      "structures/katters_structures/kattersstructures/magic_tower/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "mini_dungeon_rugged_shack",
+    "id": "kattersstructures:mini_dungeon_rugged_shack",
+    "blocks": 320,
+    "uniqueBlocks": 26,
+    "url": "structures/katters_structures/kattersstructures/mini_dungeon_rugged_shack/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/mini_dungeon_rugged_shack/previews/north.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_rugged_shack/previews/east.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_rugged_shack/previews/south.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_rugged_shack/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "mini_dungeon_ruin",
+    "id": "kattersstructures:mini_dungeon_ruin",
+    "blocks": 96,
+    "uniqueBlocks": 9,
+    "url": "structures/katters_structures/kattersstructures/mini_dungeon_ruin/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/mini_dungeon_ruin/previews/north.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_ruin/previews/east.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_ruin/previews/south.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_ruin/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "mini_dungeon_stone",
+    "id": "kattersstructures:mini_dungeon_stone",
+    "blocks": 386,
+    "uniqueBlocks": 10,
+    "url": "structures/katters_structures/kattersstructures/mini_dungeon_stone/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/mini_dungeon_stone/previews/north.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_stone/previews/east.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_stone/previews/south.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_stone/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "mini_dungeon_tuff",
+    "id": "kattersstructures:mini_dungeon_tuff",
+    "blocks": 143,
+    "uniqueBlocks": 15,
+    "url": "structures/katters_structures/kattersstructures/mini_dungeon_tuff/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/mini_dungeon_tuff/previews/north.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_tuff/previews/east.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_tuff/previews/south.png",
+      "structures/katters_structures/kattersstructures/mini_dungeon_tuff/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "ocean_ships",
+    "id": "kattersstructures:ocean_ships",
+    "blocks": 3093,
+    "uniqueBlocks": 30,
+    "url": "structures/katters_structures/kattersstructures/ocean_ships/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/ocean_ships/previews/north.png",
+      "structures/katters_structures/kattersstructures/ocean_ships/previews/east.png",
+      "structures/katters_structures/kattersstructures/ocean_ships/previews/south.png",
+      "structures/katters_structures/kattersstructures/ocean_ships/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "pillager_village",
+    "id": "kattersstructures:pillager_village",
+    "blocks": 7335,
+    "uniqueBlocks": 50,
+    "url": "structures/katters_structures/kattersstructures/pillager_village/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/pillager_village/previews/north.png",
+      "structures/katters_structures/kattersstructures/pillager_village/previews/east.png",
+      "structures/katters_structures/kattersstructures/pillager_village/previews/south.png",
+      "structures/katters_structures/kattersstructures/pillager_village/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "red_coral",
+    "id": "kattersstructures:red_coral",
+    "blocks": 166,
+    "uniqueBlocks": 5,
+    "url": "structures/katters_structures/kattersstructures/red_coral/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/red_coral/previews/north.png",
+      "structures/katters_structures/kattersstructures/red_coral/previews/east.png",
+      "structures/katters_structures/kattersstructures/red_coral/previews/south.png",
+      "structures/katters_structures/kattersstructures/red_coral/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "ruined_village",
+    "id": "kattersstructures:ruined_village",
+    "blocks": 8877,
+    "uniqueBlocks": 43,
+    "url": "structures/katters_structures/kattersstructures/ruined_village/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/ruined_village/previews/north.png",
+      "structures/katters_structures/kattersstructures/ruined_village/previews/east.png",
+      "structures/katters_structures/kattersstructures/ruined_village/previews/south.png",
+      "structures/katters_structures/kattersstructures/ruined_village/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "shroom_cave",
+    "id": "kattersstructures:shroom_cave",
+    "blocks": 4211,
+    "uniqueBlocks": 6,
+    "url": "structures/katters_structures/kattersstructures/shroom_cave/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/shroom_cave/previews/north.png",
+      "structures/katters_structures/kattersstructures/shroom_cave/previews/east.png",
+      "structures/katters_structures/kattersstructures/shroom_cave/previews/south.png",
+      "structures/katters_structures/kattersstructures/shroom_cave/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "sky_decor",
+    "id": "kattersstructures:sky_decor",
+    "blocks": 540,
+    "uniqueBlocks": 14,
+    "url": "structures/katters_structures/kattersstructures/sky_decor/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/sky_decor/previews/north.png",
+      "structures/katters_structures/kattersstructures/sky_decor/previews/east.png",
+      "structures/katters_structures/kattersstructures/sky_decor/previews/south.png",
+      "structures/katters_structures/kattersstructures/sky_decor/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "sky_dungeon",
+    "id": "kattersstructures:sky_dungeon",
+    "blocks": 30451,
+    "uniqueBlocks": 66,
+    "url": "structures/katters_structures/kattersstructures/sky_dungeon/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/sky_dungeon/previews/north.png",
+      "structures/katters_structures/kattersstructures/sky_dungeon/previews/east.png",
+      "structures/katters_structures/kattersstructures/sky_dungeon/previews/south.png",
+      "structures/katters_structures/kattersstructures/sky_dungeon/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "skyhold",
+    "id": "kattersstructures:skyhold",
+    "blocks": 248841,
+    "uniqueBlocks": 84,
+    "url": "structures/katters_structures/kattersstructures/skyhold/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/skyhold/previews/north.png",
+      "structures/katters_structures/kattersstructures/skyhold/previews/east.png",
+      "structures/katters_structures/kattersstructures/skyhold/previews/south.png",
+      "structures/katters_structures/kattersstructures/skyhold/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "skyrtle",
+    "id": "kattersstructures:skyrtle",
+    "blocks": 35865,
+    "uniqueBlocks": 28,
+    "url": "structures/katters_structures/kattersstructures/skyrtle/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/skyrtle/previews/north.png",
+      "structures/katters_structures/kattersstructures/skyrtle/previews/east.png",
+      "structures/katters_structures/kattersstructures/skyrtle/previews/south.png",
+      "structures/katters_structures/kattersstructures/skyrtle/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "spider_den",
+    "id": "kattersstructures:spider_den",
+    "blocks": 16320,
+    "uniqueBlocks": 7,
+    "url": "structures/katters_structures/kattersstructures/spider_den/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/spider_den/previews/north.png",
+      "structures/katters_structures/kattersstructures/spider_den/previews/east.png",
+      "structures/katters_structures/kattersstructures/spider_den/previews/south.png",
+      "structures/katters_structures/kattersstructures/spider_den/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "trader_outposts",
+    "id": "kattersstructures:trader_outposts",
+    "blocks": 830,
+    "uniqueBlocks": 40,
+    "url": "structures/katters_structures/kattersstructures/trader_outposts/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/trader_outposts/previews/north.png",
+      "structures/katters_structures/kattersstructures/trader_outposts/previews/east.png",
+      "structures/katters_structures/kattersstructures/trader_outposts/previews/south.png",
+      "structures/katters_structures/kattersstructures/trader_outposts/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "village_birch",
+    "id": "kattersstructures:village_birch",
+    "blocks": 18207,
+    "uniqueBlocks": 50,
+    "url": "structures/katters_structures/kattersstructures/village_birch/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/village_birch/previews/north.png",
+      "structures/katters_structures/kattersstructures/village_birch/previews/east.png",
+      "structures/katters_structures/kattersstructures/village_birch/previews/south.png",
+      "structures/katters_structures/kattersstructures/village_birch/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "village_cherry",
+    "id": "kattersstructures:village_cherry",
+    "blocks": 1829,
+    "uniqueBlocks": 42,
+    "url": "structures/katters_structures/kattersstructures/village_cherry/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/village_cherry/previews/north.png",
+      "structures/katters_structures/kattersstructures/village_cherry/previews/east.png",
+      "structures/katters_structures/kattersstructures/village_cherry/previews/south.png",
+      "structures/katters_structures/kattersstructures/village_cherry/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "village_jungle",
+    "id": "kattersstructures:village_jungle",
+    "blocks": 16980,
+    "uniqueBlocks": 60,
+    "url": "structures/katters_structures/kattersstructures/village_jungle/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/village_jungle/previews/north.png",
+      "structures/katters_structures/kattersstructures/village_jungle/previews/east.png",
+      "structures/katters_structures/kattersstructures/village_jungle/previews/south.png",
+      "structures/katters_structures/kattersstructures/village_jungle/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "village_mesa",
+    "id": "kattersstructures:village_mesa",
+    "blocks": 8485,
+    "uniqueBlocks": 101,
+    "url": "structures/katters_structures/kattersstructures/village_mesa/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/village_mesa/previews/north.png",
+      "structures/katters_structures/kattersstructures/village_mesa/previews/east.png",
+      "structures/katters_structures/kattersstructures/village_mesa/previews/south.png",
+      "structures/katters_structures/kattersstructures/village_mesa/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "village_ocean",
+    "id": "kattersstructures:village_ocean",
+    "blocks": 5435,
+    "uniqueBlocks": 108,
+    "url": "structures/katters_structures/kattersstructures/village_ocean/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/village_ocean/previews/north.png",
+      "structures/katters_structures/kattersstructures/village_ocean/previews/east.png",
+      "structures/katters_structures/kattersstructures/village_ocean/previews/south.png",
+      "structures/katters_structures/kattersstructures/village_ocean/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "village_sky",
+    "id": "kattersstructures:village_sky",
+    "blocks": 9670,
+    "uniqueBlocks": 35,
+    "url": "structures/katters_structures/kattersstructures/village_sky/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/village_sky/previews/north.png",
+      "structures/katters_structures/kattersstructures/village_sky/previews/east.png",
+      "structures/katters_structures/kattersstructures/village_sky/previews/south.png",
+      "structures/katters_structures/kattersstructures/village_sky/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "village_swamp",
+    "id": "kattersstructures:village_swamp",
+    "blocks": 13609,
+    "uniqueBlocks": 83,
+    "url": "structures/katters_structures/kattersstructures/village_swamp/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/village_swamp/previews/north.png",
+      "structures/katters_structures/kattersstructures/village_swamp/previews/east.png",
+      "structures/katters_structures/kattersstructures/village_swamp/previews/south.png",
+      "structures/katters_structures/kattersstructures/village_swamp/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "village_underground",
+    "id": "kattersstructures:village_underground",
+    "blocks": 10398,
+    "uniqueBlocks": 42,
+    "url": "structures/katters_structures/kattersstructures/village_underground/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/village_underground/previews/north.png",
+      "structures/katters_structures/kattersstructures/village_underground/previews/east.png",
+      "structures/katters_structures/kattersstructures/village_underground/previews/south.png",
+      "structures/katters_structures/kattersstructures/village_underground/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "villager_desert",
+    "id": "kattersstructures:villager_desert",
+    "blocks": 101,
+    "uniqueBlocks": 8,
+    "url": "structures/katters_structures/kattersstructures/villager_desert/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/villager_desert/previews/north.png",
+      "structures/katters_structures/kattersstructures/villager_desert/previews/east.png",
+      "structures/katters_structures/kattersstructures/villager_desert/previews/south.png",
+      "structures/katters_structures/kattersstructures/villager_desert/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "villager_mountain",
+    "id": "kattersstructures:villager_mountain",
+    "blocks": 182,
+    "uniqueBlocks": 10,
+    "url": "structures/katters_structures/kattersstructures/villager_mountain/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/villager_mountain/previews/north.png",
+      "structures/katters_structures/kattersstructures/villager_mountain/previews/east.png",
+      "structures/katters_structures/kattersstructures/villager_mountain/previews/south.png",
+      "structures/katters_structures/kattersstructures/villager_mountain/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "villager_ocean",
+    "id": "kattersstructures:villager_ocean",
+    "blocks": 102,
+    "uniqueBlocks": 9,
+    "url": "structures/katters_structures/kattersstructures/villager_ocean/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/villager_ocean/previews/north.png",
+      "structures/katters_structures/kattersstructures/villager_ocean/previews/east.png",
+      "structures/katters_structures/kattersstructures/villager_ocean/previews/south.png",
+      "structures/katters_structures/kattersstructures/villager_ocean/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "windmill",
+    "id": "kattersstructures:windmill",
+    "blocks": 8006,
+    "uniqueBlocks": 76,
+    "url": "structures/katters_structures/kattersstructures/windmill/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/windmill/previews/north.png",
+      "structures/katters_structures/kattersstructures/windmill/previews/east.png",
+      "structures/katters_structures/kattersstructures/windmill/previews/south.png",
+      "structures/katters_structures/kattersstructures/windmill/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Katters Structures",
+    "datapackSlug": "katters_structures",
+    "namespace": "kattersstructures",
+    "structure": "witch_circle",
+    "id": "kattersstructures:witch_circle",
+    "blocks": 939,
+    "uniqueBlocks": 15,
+    "url": "structures/katters_structures/kattersstructures/witch_circle/index.html",
+    "previews": [
+      "structures/katters_structures/kattersstructures/witch_circle/previews/north.png",
+      "structures/katters_structures/kattersstructures/witch_circle/previews/east.png",
+      "structures/katters_structures/kattersstructures/witch_circle/previews/south.png",
+      "structures/katters_structures/kattersstructures/witch_circle/previews/west.png"
+    ]
+  }
+]

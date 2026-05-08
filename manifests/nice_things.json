@@ -1,0 +1,226 @@
+[
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "desert_decorations",
+    "id": "nice_things:desert_decorations",
+    "blocks": 20,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_things/nice_things/desert_decorations/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/desert_decorations/previews/north.png",
+      "structures/nice_things/nice_things/desert_decorations/previews/east.png",
+      "structures/nice_things/nice_things/desert_decorations/previews/south.png",
+      "structures/nice_things/nice_things/desert_decorations/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "end_ship_crashed",
+    "id": "nice_things:end_ship_crashed",
+    "blocks": 435,
+    "uniqueBlocks": 9,
+    "url": "structures/nice_things/nice_things/end_ship_crashed/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/end_ship_crashed/previews/north.png",
+      "structures/nice_things/nice_things/end_ship_crashed/previews/east.png",
+      "structures/nice_things/nice_things/end_ship_crashed/previews/south.png",
+      "structures/nice_things/nice_things/end_ship_crashed/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "end_ship_flying",
+    "id": "nice_things:end_ship_flying",
+    "blocks": 583,
+    "uniqueBlocks": 14,
+    "url": "structures/nice_things/nice_things/end_ship_flying/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/end_ship_flying/previews/north.png",
+      "structures/nice_things/nice_things/end_ship_flying/previews/east.png",
+      "structures/nice_things/nice_things/end_ship_flying/previews/south.png",
+      "structures/nice_things/nice_things/end_ship_flying/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "jungle_decorations",
+    "id": "nice_things:jungle_decorations",
+    "blocks": 28,
+    "uniqueBlocks": 7,
+    "url": "structures/nice_things/nice_things/jungle_decorations/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/jungle_decorations/previews/north.png",
+      "structures/nice_things/nice_things/jungle_decorations/previews/east.png",
+      "structures/nice_things/nice_things/jungle_decorations/previews/south.png",
+      "structures/nice_things/nice_things/jungle_decorations/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "ocean_underground_decorations",
+    "id": "nice_things:ocean_underground_decorations",
+    "blocks": 30,
+    "uniqueBlocks": 4,
+    "url": "structures/nice_things/nice_things/ocean_underground_decorations/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/ocean_underground_decorations/previews/north.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/previews/east.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/previews/south.png",
+      "structures/nice_things/nice_things/ocean_underground_decorations/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "snow_decorations",
+    "id": "nice_things:snow_decorations",
+    "blocks": 9,
+    "uniqueBlocks": 6,
+    "url": "structures/nice_things/nice_things/snow_decorations/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/snow_decorations/previews/north.png",
+      "structures/nice_things/nice_things/snow_decorations/previews/east.png",
+      "structures/nice_things/nice_things/snow_decorations/previews/south.png",
+      "structures/nice_things/nice_things/snow_decorations/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "taiga_decorations",
+    "id": "nice_things:taiga_decorations",
+    "blocks": 49,
+    "uniqueBlocks": 6,
+    "url": "structures/nice_things/nice_things/taiga_decorations/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/taiga_decorations/previews/north.png",
+      "structures/nice_things/nice_things/taiga_decorations/previews/east.png",
+      "structures/nice_things/nice_things/taiga_decorations/previews/south.png",
+      "structures/nice_things/nice_things/taiga_decorations/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "villager_outpost/desert",
+    "id": "nice_things:villager_outpost/desert",
+    "blocks": 763,
+    "uniqueBlocks": 37,
+    "url": "structures/nice_things/nice_things/villager_outpost/desert/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/villager_outpost/desert/previews/north.png",
+      "structures/nice_things/nice_things/villager_outpost/desert/previews/east.png",
+      "structures/nice_things/nice_things/villager_outpost/desert/previews/south.png",
+      "structures/nice_things/nice_things/villager_outpost/desert/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "villager_outpost/jungle",
+    "id": "nice_things:villager_outpost/jungle",
+    "blocks": 1074,
+    "uniqueBlocks": 24,
+    "url": "structures/nice_things/nice_things/villager_outpost/jungle/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/villager_outpost/jungle/previews/north.png",
+      "structures/nice_things/nice_things/villager_outpost/jungle/previews/east.png",
+      "structures/nice_things/nice_things/villager_outpost/jungle/previews/south.png",
+      "structures/nice_things/nice_things/villager_outpost/jungle/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "villager_outpost/plains",
+    "id": "nice_things:villager_outpost/plains",
+    "blocks": 769,
+    "uniqueBlocks": 39,
+    "url": "structures/nice_things/nice_things/villager_outpost/plains/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/villager_outpost/plains/previews/north.png",
+      "structures/nice_things/nice_things/villager_outpost/plains/previews/east.png",
+      "structures/nice_things/nice_things/villager_outpost/plains/previews/south.png",
+      "structures/nice_things/nice_things/villager_outpost/plains/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "villager_outpost/savanna",
+    "id": "nice_things:villager_outpost/savanna",
+    "blocks": 672,
+    "uniqueBlocks": 29,
+    "url": "structures/nice_things/nice_things/villager_outpost/savanna/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/villager_outpost/savanna/previews/north.png",
+      "structures/nice_things/nice_things/villager_outpost/savanna/previews/east.png",
+      "structures/nice_things/nice_things/villager_outpost/savanna/previews/south.png",
+      "structures/nice_things/nice_things/villager_outpost/savanna/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "villager_outpost/snow",
+    "id": "nice_things:villager_outpost/snow",
+    "blocks": 635,
+    "uniqueBlocks": 22,
+    "url": "structures/nice_things/nice_things/villager_outpost/snow/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/villager_outpost/snow/previews/north.png",
+      "structures/nice_things/nice_things/villager_outpost/snow/previews/east.png",
+      "structures/nice_things/nice_things/villager_outpost/snow/previews/south.png",
+      "structures/nice_things/nice_things/villager_outpost/snow/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "villager_outpost/swamp",
+    "id": "nice_things:villager_outpost/swamp",
+    "blocks": 1086,
+    "uniqueBlocks": 37,
+    "url": "structures/nice_things/nice_things/villager_outpost/swamp/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/villager_outpost/swamp/previews/north.png",
+      "structures/nice_things/nice_things/villager_outpost/swamp/previews/east.png",
+      "structures/nice_things/nice_things/villager_outpost/swamp/previews/south.png",
+      "structures/nice_things/nice_things/villager_outpost/swamp/previews/west.png"
+    ]
+  },
+  {
+    "datapack": "Nice Things",
+    "datapackSlug": "nice_things",
+    "namespace": "nice_things",
+    "structure": "villager_outpost/taiga",
+    "id": "nice_things:villager_outpost/taiga",
+    "blocks": 777,
+    "uniqueBlocks": 40,
+    "url": "structures/nice_things/nice_things/villager_outpost/taiga/index.html",
+    "previews": [
+      "structures/nice_things/nice_things/villager_outpost/taiga/previews/north.png",
+      "structures/nice_things/nice_things/villager_outpost/taiga/previews/east.png",
+      "structures/nice_things/nice_things/villager_outpost/taiga/previews/south.png",
+      "structures/nice_things/nice_things/villager_outpost/taiga/previews/west.png"
+    ]
+  }
+]
