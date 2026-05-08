@@ -5,8 +5,8 @@
     "namespace": "fabled_roots",
     "structure": "congress_hall/congress_hall",
     "id": "fabled_roots:congress_hall/congress_hall",
-    "blocks": 16530,
-    "uniqueBlocks": 98,
+    "blocks": 16728,
+    "uniqueBlocks": 99,
     "url": "structures/fabled_roots/fabled_roots/congress_hall/congress_hall/index.html",
     "previews": [
       "structures/fabled_roots/fabled_roots/congress_hall/congress_hall/previews/north.png",
@@ -85,8 +85,8 @@
     "namespace": "fabled_roots",
     "structure": "shelter/aetherian",
     "id": "fabled_roots:shelter/aetherian",
-    "blocks": 17591,
-    "uniqueBlocks": 36,
+    "blocks": 17720,
+    "uniqueBlocks": 37,
     "url": "structures/fabled_roots/fabled_roots/shelter/aetherian/index.html",
     "previews": [
       "structures/fabled_roots/fabled_roots/shelter/aetherian/previews/north.png",
@@ -229,8 +229,8 @@
     "namespace": "fabled_roots",
     "structure": "shelter/turtlekin",
     "id": "fabled_roots:shelter/turtlekin",
-    "blocks": 756,
-    "uniqueBlocks": 20,
+    "blocks": 1583,
+    "uniqueBlocks": 21,
     "url": "structures/fabled_roots/fabled_roots/shelter/turtlekin/index.html",
     "previews": [
       "structures/fabled_roots/fabled_roots/shelter/turtlekin/previews/north.png",
